@@ -1,0 +1,17 @@
+{
+  "id": "acc_001",
+  "title": "Basics of Accounting",
+  "subject": "Accountancy",
+  "questions": [
+    {
+      "questionText": "What is the primary purpose of accounting?",
+      "options": ["To make a profit", "To provide financial information for decision making", "To manage employees", "To market products"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What does 'debit' signify in accounting?",
+      "options": ["An increase in assets", "A decrease in liability", "An increase in expenses", "All of the above"],
+      "correctOptionIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "quizzes": [
+    {
+      "id": "acc_001",
+      "title": "Basics of Accounting",
+      "subject": "Accountancy",
+      "url": "https://raw.githubusercontent.com/your-username/my-quiz-content/main/accountancy_quiz_1.json"
+    },
+    {
+      "id": "bs_001",
+      "title": "Principles of Management",
+      "subject": "Business Studies",
+      "url": "https://raw.githubusercontent.com/your-username/my-quiz-content/main/business_studies_quiz_1.json"
+    }
+  ]
+}

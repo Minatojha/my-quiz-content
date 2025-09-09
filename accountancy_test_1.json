@@ -1,0 +1,807 @@
+{
+  "id": "acc_test_01",
+  "title": "Accountancy Practice Test",
+  "subject": "Accountancy",
+  "questions": [
+    {
+      "questionText": "Sale of old newspapers is -",
+      "options": [
+        "Capital Receipt",
+        "Revenue Receipt",
+        "Asset",
+        "Profit"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Income and expenses related to the prize fund is shown in -",
+      "options": [
+        "In Income and Expenditure Account",
+        "In Assets side of the Balance Sheet",
+        "In Liabilities side of the Balance Sheet",
+        "In Cash Account"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Life membership fees of non-trading concerns is-",
+      "options": [
+        "Capital Receipts",
+        "Revenue Receipts",
+        "Both",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Legacies should be treated as-",
+      "options": [
+        "Assets",
+        "Revenue Receipt",
+        "Capital Receipt",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Payment of Honorarium to secretary is treated as-",
+      "options": [
+        "Capital Expenditure",
+        "Revenue Expenditure",
+        "Both 'A' & 'B'",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Specific donation is -",
+      "options": [
+        "Capital Receipt",
+        "Revenue Receipt",
+        "Asset",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Income and Expenditure Account records transactions of-",
+      "options": [
+        "Capital nature only",
+        "Revenue nature only",
+        "Both Revenue and Capital Nature",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Outstanding subscription is a/an-",
+      "options": [
+        "Income",
+        "Asset",
+        "Liability",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Entrance fee, unless otherwise stated, is treated as -",
+      "options": [
+        "Revenue Receipts",
+        "Capital Receipts",
+        "Liability",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Most transactions in non-trading concerns are-",
+      "options": [
+        "Cash",
+        "Credit",
+        "Both Cash and Credit",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "In the absence of partnership deed, partner's salary is debited to -",
+      "options": [
+        "Trading Account",
+        "Profit and Loss Account",
+        "Profit & Loss Appropriation Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Current accounts of the partners should be opened, when capitals are -",
+      "options": [
+        "Fluctuating",
+        "Fixed",
+        "Working",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Partnership may be -",
+      "options": [
+        "Limited",
+        "Unlimited",
+        "At will",
+        "All of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Liability of a partner is-",
+      "options": [
+        "Limited",
+        "Unlimited",
+        "Limited to Capital",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Partnership deed is also called -",
+      "options": [
+        "Articles of Association",
+        "Manager",
+        "Principles of Partnership",
+        "Articles of Partnership"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The relationship of partner with the firm is that of -",
+      "options": [
+        "As a Manager",
+        "As a Servant",
+        "As an Agent",
+        "As a Monopolist"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Partnership agreement is -",
+      "options": [
+        "Compulsory",
+        "Voluntary",
+        "Partly Compulsory",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "In which year did the Partnership Act pass?",
+      "options": [
+        "In 1932",
+        "In 1956",
+        "In 1947",
+        "In 1982"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Partnership agreement can be:",
+      "options": [
+        "Oral",
+        "Written",
+        "Oral or Written",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The interest on Partners' Capital accounts is to be created to -",
+      "options": [
+        "In Profit and Loss A/c",
+        "In Interest A/c",
+        "In Partners' Capital A/c",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The Valuation of Goodwill is not necessary in Sole Trading:",
+      "options": [
+        "On Selling the Firm",
+        "On making a Partner",
+        "On estimation of Assets",
+        "On Closing the Firm"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Following are the factors affecting goodwill except -",
+      "options": [
+        "Nature of Business",
+        "Efficiency of Management",
+        "Technical Knowledge",
+        "Location of the Customers"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Goodwill is-",
+      "options": [
+        "A Fixed Asset",
+        "An Intangible Asset",
+        "An Invisible Asset",
+        "All of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What do you mean by Super Profit?",
+      "options": [
+        "Super Profit means",
+        "Total Profit/No. of Years",
+        "Average Profit - Normal Profit",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The excess of average profit over the normal profit is called -",
+      "options": [
+        "Super Profit",
+        "Fixed Profit",
+        "Abnormal Profit",
+        "Net Profit"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Weighted average method of calculating goodwill is used when-",
+      "options": [
+        "Profit are unequal",
+        "Profit has increasing trend",
+        "Profit has decreasing trend",
+        "Either B or C"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The monetary value of reputation of the business is called -",
+      "options": [
+        "Goodwill",
+        "Super Profit",
+        "Surplus",
+        "Abnormal Profit"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "\"Goodwill is nothing more than probability that the old customer will resort to the old place\". This definition of goodwill was given by-",
+      "options": [
+        "Spicer and Pegler",
+        "ICAI",
+        "Lord Eldon",
+        "AICPA"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The excess of actual profit over the normal profit is called -",
+      "options": [
+        "Super Profit",
+        "Abnormal Profit",
+        "Fixed Profit",
+        "Capital Profit"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Goodwill is an intangible asset, but it is not a fictitious asset.",
+      "options": [
+        "False",
+        "True",
+        "None of these",
+        "False"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Revaluation of the partnership firm results into-",
+      "options": [
+        "Gain to the existing partners",
+        "Loss to the existing partners",
+        "Gain or loss to the existing partners",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Revaluation is distributed among partners in-",
+      "options": [
+        "New Ratio",
+        "Sacrificing Ratio",
+        "Old Ratio",
+        "Capital Ratio"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Reconstitution of partnership firm takes place wherever there is -",
+      "options": [
+        "Admission of a partner",
+        "Retirement of an existing partner",
+        "Change in profit-sharing ratio of partners",
+        "All the above"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "For the firm, interest on Drawings is-",
+      "options": [
+        "Expense",
+        "Loss",
+        "Income",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Change in profit-sharing ratio of existing partners results in -",
+      "options": [
+        "Revaluation of Firm",
+        "Reconstitution of Firm",
+        "Dissolution of Firm",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Change in partnership agreement results in-",
+      "options": [
+        "Reconstitution of Firm",
+        "Dissolution of Firm",
+        "Revaluation Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Change in profit-sharing ratio among partners-",
+      "options": [
+        "Changes the relationship among the partners",
+        "Results in end of partnership business",
+        "None of these",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Revaluation Account or Profit and Loss Adjustment Account is a -",
+      "options": [
+        "Personal Account",
+        "Real Account",
+        "Nominal Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Revaluation Account or Profit and Loss Adjustment Account is transferred to Old Partners' Capital Accounts in their -",
+      "options": [
+        "Old Profit-sharing Ratio",
+        "New Profit-sharing Ratio",
+        "Equal Ratio",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "In the event of a change in profit-sharing ratio, accounting adjustment will be made for-",
+      "options": [
+        "Undistributed Profit",
+        "Reserves",
+        "Change in Profit-sharing Rate can take place",
+        "All of the above"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The cash brought in for goodwill by the new partner is distributed among the existing partners in-",
+      "options": [
+        "Profit and Loss Ratio",
+        "Capital Ratio",
+        "Sacrificing Ratio",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Sacrificing ratio is ascertained at the time of-",
+      "options": [
+        "Admission of a partner",
+        "Retirement of a partner",
+        "Death of a partner",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Profit & Loss Appropriation A/c appears in the books, it will be transferred to -",
+      "options": [
+        "All Partners' Capital A/cs",
+        "Old Partners' Capital A/cs",
+        "New Partners' Capital A/cs",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "When a new partner is admitted, there is dissolution of firm -",
+      "options": [
+        "True",
+        "False",
+        "Partially True",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Share of goodwill brought in cash by new partner is shared by old partners in -",
+      "options": [
+        "Profit and Loss Ratio",
+        "Sacrificing Ratio",
+        "New Ratio",
+        "Old Ratio"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Share of Goodwill brought in cash by the new partner is called -",
+      "options": [
+        "Assets",
+        "Profit",
+        "Premium",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The accumulated profits and reserves are transferred to-",
+      "options": [
+        "Realisation A/c",
+        "Partner's Capital A/c",
+        "Bank A/c",
+        "Saving A/c"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "General Reserve at the time of admission of a new partner is transferred to -",
+      "options": [
+        "Revaluation Account",
+        "Old Partners' Capital Account",
+        "Profit and Loss Adjustment Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "When goodwill is not recorded in the books of the firm at all on admission of a partner?",
+      "options": [
+        "When goodwill is paid privately",
+        "When goodwill is not brought in cash",
+        "When goodwill is brought in kind",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "When cash is not brought for goodwill by the new partner, it is distributed among the existing partners in?",
+      "options": [
+        "Sacrificing Ratio",
+        "Capital Ratio",
+        "None of these",
+        "4:3:2:1"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the retirement of a partner, the whole amount standing to the credit of his capital account should be transferred to -",
+      "options": [
+        "In Capital Accounts",
+        "In new profit sharing ratio of remaining partners",
+        "In retiring partner only in his share",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the retirement of a partner, Reserve should be transferred to the capital accounts of -",
+      "options": [
+        "Retiring partner",
+        "Remaining partners",
+        "All partners",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the retirement of a partner, the amount of General Reserve is transferred to all partner's capital account in -",
+      "options": [
+        "New Profit Sharing Ratio",
+        "Capital Ratio",
+        "Old Profit Sharing Ratio",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the retirement of a partner the amount of goodwill is credited to the capital account of -",
+      "options": [
+        "Retiring partner",
+        "Remaining partners",
+        "All partners",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Outgoing partner is compensated for partnership firm profits in the ratio of -",
+      "options": [
+        "Gaining Ratio",
+        "Capital Ratio",
+        "Sacrificing Ratio",
+        "Profit-sharing Ratio"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the retirement of a partner, goodwill will be credited to the capital account of -",
+      "options": [
+        "Retiring Partner",
+        "Remaining Partners",
+        "All Partners",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Unrecorded assets are treated at the time of retirement of a partner?",
+      "options": [
+        "Credited to Revaluation Account",
+        "Debited to Capital Account of Retiring Partner",
+        "Credited to Capital Account",
+        "Credited to Partners' Capital Accounts"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Partnership Act provides that interest on amount of capital balance left by the retired partner be paid at-",
+      "options": [
+        "5%",
+        "6%",
+        "Bank Rate",
+        "8%"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Gaining ratio means -",
+      "options": [
+        "New Ratio - Old Ratio",
+        "Old Ratio - New Ratio",
+        "New Ratio - Sacrificing Ratio",
+        "New Ratio - Sacrificing Ratio"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "A Joint Life Insurance policy taken out on joint lives of all partners is -",
+      "options": [
+        "Single Life Policy",
+        "Joint Life Policy",
+        "Firm's Life Policy",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "The amount due to the deceased partner is paid to his-",
+      "options": [
+        "Wife",
+        "Friend",
+        "Family",
+        "Executors"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "JLP (Joint Life Policy) of the partners is a/an...account-",
+      "options": [
+        "Nominal",
+        "Personal",
+        "Liability",
+        "Asset"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Joint Life Policy amount received by a firm is distributed in -",
+      "options": [
+        "Opening Capital Ratio",
+        "Closing Capital Ratio",
+        "Old Profit Sharing Ratio of Partners",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the death of a partner, the whole amount standing to the credit of his capital account is transferred to -",
+      "options": [
+        "In Capital Accounts of all partners",
+        "Capital Accounts of remaining partners",
+        "In His Executor's Account",
+        "Account of the Government"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On the death of a partner in a firm final payments are made through -",
+      "options": [
+        "Capital A/c",
+        "Executor's A/c",
+        "Current A/c",
+        "Loan A/c"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Revaluation Account is prepared at the time of-",
+      "options": [
+        "Admission of a partner",
+        "Retirement of a partner",
+        "Death of a partner",
+        "All of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On death of a partner, share of goodwill of the deceased partner is written off among remaining partners in their-",
+      "options": [
+        "New Profit Sharing Ratio",
+        "New Capital Ratio",
+        "Gaining Ratio",
+        "Sacrificing Ratio"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Surrender Value of an Insurance Policy means the value -",
+      "options": [
+        "Which is received on death of a partner",
+        "Which is received before the due date of the policy",
+        "Which is received before the due date of the policy",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On death of a partner, his executor is paid the profits of the deceased partner for the relevant period. This payment is recorded in Profit & Loss___A/c-",
+      "options": [
+        "Adjustment",
+        "Appropriation",
+        "Suspense",
+        "Reserve"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "An account prepared to ascertain the gain or loss at the time of death of a partner is called:",
+      "options": [
+        "Revaluation A/c",
+        "Executor's A/c",
+        "Accumulated A/c",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On dissolution of a firm, credit balance of Partner's Capital Accounts is paid to:",
+      "options": [
+        "Partner's Loan A/c",
+        "Partners",
+        "Wife",
+        "Firm"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Amount realised from sale of assets on dissolution of firm is recorded in:",
+      "options": [
+        "Debit side of Realisation Account",
+        "Credit side of Realisation Account",
+        "Debit side of Partner's Capital Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On dissolution of a firm, Partner's Loan A/c is transferred to:",
+      "options": [
+        "Realisation Account",
+        "Partners' Capital Accounts",
+        "Partner's Current Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Expenses on dissolution of a firm are called:",
+      "options": [
+        "Realisation Expense",
+        "Legal Expense",
+        "Loss Expense",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "A firm can be voluntarily dissolved by the partners:",
+      "options": [
+        "On majority basis",
+        "On 3/4 member's decision",
+        "On 1/2 member's decision",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On dissolution of a firm, an amount received from an unrecorded asset is credited to:",
+      "options": [
+        "Realisation Account",
+        "Revaluation Account",
+        "Partner's Capital Account",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Profit/Loss on Realisation Account is distributed among partners in:",
+      "options": [
+        "In Profit-sharing Ratio",
+        "In Capital Ratio",
+        "Equally",
+        "None of these"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which of the following is correct profit or loss in case the amount received from the sale of assets is ₹50,000, total assets ₹60,000, total liabilities ₹20,000 and realisation expenses ₹2,000?",
+      "options": [
+        "12,000 Loss",
+        "₹ 32,000 Profit",
+        "₹30,000 Loss",
+        "₹ 12,000 Profit"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which of the following is not transferred to Realisation Account?",
+      "options": [
+        "Balance of Cash Account",
+        "Reserves",
+        "Profit & Loss Account",
+        "All of the above"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "On taking responsibility of payment of realisation expenses by a partner, the amount credited will be:",
+      "options": [
+        "Realisation Account",
+        "Cash Account",
+        "Partner's Capital Account",
+        "None of the above"
+      ],
+      "correctOptionIndex": 0
+    }
+  ]
+}

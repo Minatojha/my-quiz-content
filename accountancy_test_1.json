@@ -1,805 +1,1045 @@
 {
-  "id": "acc_test_01",
+  "id": "acc_test_01_bilingual",
   "title": "Accountancy Practice Test",
   "subject": "Accountancy",
   "questions": [
     {
-      "questionText": "Sale of old newspapers is -",
+      "questionText": {
+        "en": "Sale of old newspapers is -",
+        "hi": "पुराने अखबारों की बिक्री है-"
+      },
       "options": [
-        "Capital Receipt",
-        "Revenue Receipt",
-        "Asset",
-        "Profit"
+        { "en": "Capital Receipt", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Revenue Receipt", "hi": "आयगत प्राप्ति" },
+        { "en": "Asset", "hi": "सम्पत्ति" },
+        { "en": "Profit", "hi": "लाभ" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Income and expenses related to the prize fund is shown in -",
+      "questionText": {
+        "en": "Income and expenses related to the prize fund is shown in -",
+        "hi": "पुरस्कार निधि से संबंधित आय और व्यय दिखाया जाता है-"
+      },
       "options": [
-        "In Income and Expenditure Account",
-        "In Assets side of the Balance Sheet",
-        "In Liabilities side of the Balance Sheet",
-        "In Cash Account"
+        { "en": "In Income and Expenditure Account", "hi": "आय एवं व्यय खाते में" },
+        { "en": "In Assets side of the Balance Sheet", "hi": "चिट्ठे के सम्पत्ति पक्ष में" },
+        { "en": "In Liabilities side of the Balance Sheet", "hi": "चिट्ठे के दायित्व पक्ष में" },
+        { "en": "In Cash Account", "hi": "रोकड़ खाता में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Life membership fees of non-trading concerns is-",
+      "questionText": {
+        "en": "Life membership fees of non-trading concerns is-",
+        "hi": "गैर-व्यापारिक संस्थाओं के आजीवन सदस्यता शुल्क हैं-"
+      },
       "options": [
-        "Capital Receipts",
-        "Revenue Receipts",
-        "Both",
-        "None of these"
+        { "en": "Capital Receipts", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Revenue Receipts", "hi": "आयगत प्राप्ति" },
+        { "en": "Both", "hi": "दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Legacies should be treated as-",
+      "questionText": {
+        "en": "Legacies should be treated as-",
+        "hi": "विरासत (उत्तरधिकार) के रूप में माना जाना चाहिए -"
+      },
       "options": [
-        "Assets",
-        "Revenue Receipt",
-        "Capital Receipt",
-        "None of these"
+        { "en": "Assets", "hi": "सम्पत्ति" },
+        { "en": "Revenue Receipt", "hi": "आयगत प्राप्ति" },
+        { "en": "Capital Receipt", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Payment of Honorarium to secretary is treated as-",
+      "questionText": {
+        "en": "Payment of Honorarium to secretary is treated as-",
+        "hi": "सचिव को मानदेय का भुगतान माना जाता है-"
+      },
       "options": [
-        "Capital Expenditure",
-        "Revenue Expenditure",
-        "Both 'A' & 'B'",
-        "None of these"
+        { "en": "Capital Expenditure", "hi": "पूंजीगत व्यय" },
+        { "en": "Revenue Expenditure", "hi": "आयगत व्यय" },
+        { "en": "Both 'A' & 'B'", "hi": "'A' तथा 'B' दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Specific donation is -",
+      "questionText": {
+        "en": "Specific donation is -",
+        "hi": "विशिष्ट दान है -"
+      },
       "options": [
-        "Capital Receipt",
-        "Revenue Receipt",
-        "Asset",
-        "None of these"
+        { "en": "Capital Receipt", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Revenue Receipt", "hi": "आयगत प्राप्ति" },
+        { "en": "Asset", "hi": "सम्पत्ति" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Income and Expenditure Account records transactions of-",
+      "questionText": {
+        "en": "Income and Expenditure Account records transactions of-",
+        "hi": "आय और व्यय खाता किस प्रकार के लेन-देन दर्ज करता है-"
+      },
       "options": [
-        "Capital nature only",
-        "Revenue nature only",
-        "Both Revenue and Capital Nature",
-        "None of these"
+        { "en": "Capital nature only", "hi": "केवल पूंजीगत प्रकृति के" },
+        { "en": "Revenue nature only", "hi": "केवल आयगत प्रकृति के" },
+        { "en": "Both Revenue and Capital Nature", "hi": "दोनों पूंजीगत एवं आयगत प्रकृति के" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Outstanding subscription is a/an-",
+      "questionText": {
+        "en": "Outstanding subscription is a/an-",
+        "hi": "बकाया सदस्यता शुल्क एक है-"
+      },
       "options": [
-        "Income",
-        "Asset",
-        "Liability",
-        "None of these"
+        { "en": "Income", "hi": "आय" },
+        { "en": "Asset", "hi": "सम्पत्ति" },
+        { "en": "Liability", "hi": "दायित्व" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Entrance fee, unless otherwise stated, is treated as -",
+      "questionText": {
+        "en": "Entrance fee, unless otherwise stated, is treated as -",
+        "hi": "प्रवेश शुल्क, जब तक कि अन्यथा न कहा गया हो, माना जाता है-"
+      },
       "options": [
-        "Revenue Receipts",
-        "Capital Receipts",
-        "Liability",
-        "None of these"
+        { "en": "Revenue Receipts", "hi": "आयगत प्राप्ति" },
+        { "en": "Capital Receipts", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Liability", "hi": "दायित्व" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Most transactions in non-trading concerns are-",
+      "questionText": {
+        "en": "Most transactions in non-trading concerns are-",
+        "hi": "गैर-व्यापारिक संस्थाओं में अधिकांश लेन-देन होते हैं-"
+      },
       "options": [
-        "Cash",
-        "Credit",
-        "Both Cash and Credit",
-        "None of these"
+        { "en": "Cash", "hi": "रोकड़" },
+        { "en": "Credit", "hi": "उधार" },
+        { "en": "Both Cash and Credit", "hi": "रोकड़ एवं उधार दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "In the absence of partnership deed, partner's salary is debited to -",
+      "questionText": {
+        "en": "In the absence of partnership deed, partner's salary is debited to -",
+        "hi": "साझेदारी विलेख के अभाव में, साझेदार का वेतन डेबिट किया जाता है -"
+      },
       "options": [
-        "Trading Account",
-        "Profit and Loss Account",
-        "Profit & Loss Appropriation Account",
-        "None of these"
+        { "en": "Trading Account", "hi": "व्यापार लाभ खाते" },
+        { "en": "Profit and Loss Account", "hi": "लाभ-हानि खाते" },
+        { "en": "Profit & Loss Appropriation Account", "hi": "लाभ-हानि नियोजन खाता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Current accounts of the partners should be opened, when capitals are -",
+      "questionText": {
+        "en": "Current accounts of the partners should be opened, when capitals are -",
+        "hi": "साझेदारों के चालू खाते कब खोले जाने चाहिए -"
+      },
       "options": [
-        "Fluctuating",
-        "Fixed",
-        "Working",
-        "None of these"
+        { "en": "Fluctuating", "hi": "परिवर्तनशील" },
+        { "en": "Fixed", "hi": "स्थायी" },
+        { "en": "Working", "hi": "कार्यशील" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Partnership may be -",
+      "questionText": {
+        "en": "Partnership may be -",
+        "hi": "साझेदारी हो सकती है -"
+      },
       "options": [
-        "Limited",
-        "Unlimited",
-        "At will",
-        "All of these"
+        { "en": "Limited", "hi": "सीमित" },
+        { "en": "Unlimited", "hi": "असीमित" },
+        { "en": "At will", "hi": "ऐच्छिक" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Liability of a partner is-",
+      "questionText": {
+        "en": "Liability of a partner is-",
+        "hi": "एक साझेदार की देयता है-"
+      },
       "options": [
-        "Limited",
-        "Unlimited",
-        "Limited to Capital",
-        "None of these"
+        { "en": "Limited", "hi": "सीमित" },
+        { "en": "Unlimited", "hi": "असीमित" },
+        { "en": "Limited to Capital", "hi": "पूंजी तक सीमित" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Partnership deed is also called -",
+      "questionText": {
+        "en": "Partnership deed is also called -",
+        "hi": "साझेदारी विलेख को भी कहा जाता है-"
+      },
       "options": [
-        "Articles of Association",
-        "Manager",
-        "Principles of Partnership",
-        "Articles of Partnership"
+        { "en": "Articles of Association", "hi": "पार्षद अन्तर नियम" },
+        { "en": "Manager", "hi": "प्रबन्धक" },
+        { "en": "Principles of Partnership", "hi": "साझेदारी के सिद्धान्त" },
+        { "en": "Articles of Partnership", "hi": "साझेदारी का अन्तर नियम" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The relationship of partner with the firm is that of -",
+      "questionText": {
+        "en": "The relationship of partner with the firm is that of -",
+        "hi": "फर्म के साथ साझेदार का संबंध होता है -"
+      },
       "options": [
-        "As a Manager",
-        "As a Servant",
-        "As an Agent",
-        "As a Monopolist"
+        { "en": "As a Manager", "hi": "प्रबन्धक" },
+        { "en": "As a Servant", "hi": "सेवक" },
+        { "en": "As an Agent", "hi": "अभिकर्ता" },
+        { "en": "As a Monopolist", "hi": "एकाधिकारी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Partnership agreement is -",
+      "questionText": {
+        "en": "Partnership agreement is -",
+        "hi": "साझेदारी समझौता है-"
+      },
       "options": [
-        "Compulsory",
-        "Voluntary",
-        "Partly Compulsory",
-        "None of these"
+        { "en": "Compulsory", "hi": "अनिवार्य है" },
+        { "en": "Voluntary", "hi": "ऐच्छिक" },
+        { "en": "Partly Compulsory", "hi": "अंशतः अनिवार्य" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "In which year did the Partnership Act pass?",
+      "questionText": {
+        "en": "In which year did the Partnership Act pass?",
+        "hi": "साझेदारी अधिनियम किस वर्ष पारित हुआ?"
+      },
       "options": [
-        "In 1932",
-        "In 1956",
-        "In 1947",
-        "In 1982"
+        { "en": "In 1932", "hi": "1932 में" },
+        { "en": "In 1956", "hi": "1956 में" },
+        { "en": "In 1947", "hi": "1947 में" },
+        { "en": "In 1982", "hi": "1982 में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Partnership agreement can be:",
+      "questionText": {
+        "en": "Partnership agreement can be:",
+        "hi": "साझेदारी समझौता हो सकता है:"
+      },
       "options": [
-        "Oral",
-        "Written",
-        "Oral or Written",
-        "None of these"
+        { "en": "Oral", "hi": "मौखिक" },
+        { "en": "Written", "hi": "लिखित" },
+        { "en": "Oral or Written", "hi": "मौखिक या लिखित" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The interest on Partners' Capital accounts is to be created to -",
+      "questionText": {
+        "en": "The interest on Partners' Capital accounts is to be created to -",
+        "hi": "साझेदारों के पूंजी खातों पर ब्याज किसमें दिया जाता है-"
+      },
       "options": [
-        "In Profit and Loss A/c",
-        "In Interest A/c",
-        "In Partners' Capital A/c",
-        "None of these"
+        { "en": "In Profit and Loss A/c", "hi": "लाभ-हानि खाते में" },
+        { "en": "In Interest A/c", "hi": "ब्याज खाते में" },
+        { "en": "In Partners' Capital A/c", "hi": "साझेदारी के पूंजी खाते में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The Valuation of Goodwill is not necessary in Sole Trading:",
+      "questionText": {
+        "en": "The Valuation of Goodwill is not necessary in Sole Trading:",
+        "hi": "एकल व्यापार में ख्याति का मूल्यांकन आवश्यक नहीं है:"
+      },
       "options": [
-        "On Selling the Firm",
-        "On making a Partner",
-        "On estimation of Assets",
-        "On Closing the Firm"
+        { "en": "On Selling the Firm", "hi": "व्यवसाय बेचने पर" },
+        { "en": "On making a Partner", "hi": "व्यवसाय को साझेदारी में बदलने पर" },
+        { "en": "On estimation of Assets", "hi": "सम्पत्ति के निर्धारण पर" },
+        { "en": "On Closing the Firm", "hi": "व्यवसाय बन्द करने पर" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Following are the factors affecting goodwill except -",
+      "questionText": {
+        "en": "Following are the factors affecting goodwill except -",
+        "hi": "ख्याति को प्रभावित करने वाले कारक निम्नलिखित हैं सिवाय -"
+      },
       "options": [
-        "Nature of Business",
-        "Efficiency of Management",
-        "Technical Knowledge",
-        "Location of the Customers"
+        { "en": "Nature of Business", "hi": "व्यवसाय की प्रकृति" },
+        { "en": "Efficiency of Management", "hi": "व्यवसाय का कार्यक्षमता" },
+        { "en": "Technical Knowledge", "hi": "तकनीकी ज्ञान" },
+        { "en": "Location of the Customers", "hi": "ग्राहक की स्थिति" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Goodwill is-",
+      "questionText": {
+        "en": "Goodwill is-",
+        "hi": "ख्याति है -"
+      },
       "options": [
-        "A Fixed Asset",
-        "An Intangible Asset",
-        "An Invisible Asset",
-        "All of these"
+        { "en": "A Fixed Asset", "hi": "स्थायी सम्पत्ति" },
+        { "en": "An Intangible Asset", "hi": "अमूर्त सम्पत्ति" },
+        { "en": "An Invisible Asset", "hi": "अदृश्य सम्पत्ति" },
+        { "en": "All of these", "hi": "उपर्युक्त सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "What do you mean by Super Profit?",
+      "questionText": {
+        "en": "What do you mean by Super Profit?",
+        "hi": "अधि लाभ से आप क्या समझते हैं?"
+      },
       "options": [
-        "Super Profit means",
-        "Total Profit/No. of Years",
-        "Average Profit - Normal Profit",
-        "None of these"
+        { "en": "Super Profit means", "hi": "अधि लाभ" },
+        { "en": "Total Profit/No. of Years", "hi": "कुल लाभ/वर्षों की संख्या" },
+        { "en": "Average Profit - Normal Profit", "hi": "औसत लाभ - सामान्य लाभ" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The excess of average profit over the normal profit is called -",
+      "questionText": {
+        "en": "The excess of average profit over the normal profit is called -",
+        "hi": "सामान्य लाभ पर औसत लाभ की अधिकता कहलाती है -"
+      },
       "options": [
-        "Super Profit",
-        "Fixed Profit",
-        "Abnormal Profit",
-        "Net Profit"
+        { "en": "Super Profit", "hi": "अधिलाभ" },
+        { "en": "Fixed Profit", "hi": "निश्चित लाभ" },
+        { "en": "Abnormal Profit", "hi": "सामान्य लाभ" },
+        { "en": "Net Profit", "hi": "शुद्ध लाभ" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Weighted average method of calculating goodwill is used when-",
+      "questionText": {
+        "en": "Weighted average method of calculating goodwill is used when-",
+        "hi": "ख्याति की गणना की भारित औसत विधि का प्रयोग कब किया जाता है -"
+      },
       "options": [
-        "Profit are unequal",
-        "Profit has increasing trend",
-        "Profit has decreasing trend",
-        "Either B or C"
+        { "en": "Profit are unequal", "hi": "लाभ असमान हों" },
+        { "en": "Profit has increasing trend", "hi": "लाभ में वृद्धि की प्रवृत्ति हो" },
+        { "en": "Profit has decreasing trend", "hi": "लाभ में कमी की प्रवृत्ति हो" },
+        { "en": "Either B or C", "hi": "या तो B या C" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The monetary value of reputation of the business is called -",
+      "questionText": {
+        "en": "The monetary value of reputation of the business is called -",
+        "hi": "व्यवसाय की प्रतिष्ठा के मौद्रिक मूल्य को कहते हैं-"
+      },
       "options": [
-        "Goodwill",
-        "Super Profit",
-        "Surplus",
-        "Abnormal Profit"
+        { "en": "Goodwill", "hi": "ख्याति" },
+        { "en": "Super Profit", "hi": "अधिलाभ" },
+        { "en": "Surplus", "hi": "अधिशेष" },
+        { "en": "Abnormal Profit", "hi": "असामान्य लाभ" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "\"Goodwill is nothing more than probability that the old customer will resort to the old place\". This definition of goodwill was given by-",
+      "questionText": {
+        "en": "\"Goodwill is nothing more than probability that the old customer will resort to the old place\". This definition of goodwill was given by-",
+        "hi": "\"ख्याति और कुछ नहीं बल्कि इसकी संभावना है कि पुराना ग्राहक पुरानी जगह पर आएगा\"। ख्याति की यह परिभाषा किसके द्वारा दी गई थी-"
+      },
       "options": [
-        "Spicer and Pegler",
-        "ICAI",
-        "Lord Eldon",
-        "AICPA"
+        { "en": "Spicer and Pegler", "hi": "स्पीसर एवं पेगलर" },
+        { "en": "ICAI", "hi": "आई. सी. ए. आई." },
+        { "en": "Lord Eldon", "hi": "लॉर्ड एल्डन" },
+        { "en": "AICPA", "hi": "ए. आई. सी. पी. ए." }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The excess of actual profit over the normal profit is called -",
+      "questionText": {
+        "en": "The excess of actual profit over the normal profit is called -",
+        "hi": "सामान्य लाभ पर वास्तविक लाभ की अधिकता कहलाती है-"
+      },
       "options": [
-        "Super Profit",
-        "Abnormal Profit",
-        "Fixed Profit",
-        "Capital Profit"
+        { "en": "Super Profit", "hi": "अधिलाभ" },
+        { "en": "Abnormal Profit", "hi": "असामान्य लाभ" },
+        { "en": "Fixed Profit", "hi": "स्थायी लाभ" },
+        { "en": "Capital Profit", "hi": "पूंजीगत लाभ" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Goodwill is an intangible asset, but it is not a fictitious asset.",
+      "questionText": {
+        "en": "Goodwill is an intangible asset, but it is not a fictitious asset.",
+        "hi": "ख्याति एक अमूर्त सम्पत्ति है, लेकिन यह एक काल्पनिक सम्पत्ति नहीं है।"
+      },
       "options": [
-        "False",
-        "True",
-        "None of these",
-        "False"
+        { "en": "False", "hi": "असत्य" },
+        { "en": "True", "hi": "सत्य" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" },
+        { "en": "False", "hi": "असत्य" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Revaluation of the partnership firm results into-",
+      "questionText": {
+        "en": "Revaluation of the partnership firm results into-",
+        "hi": "साझेदारी फर्म के पुनर्मूल्यांकन का परिणाम होता है-"
+      },
       "options": [
-        "Gain to the existing partners",
-        "Loss to the existing partners",
-        "Gain or loss to the existing partners",
-        "None of these"
+        { "en": "Gain to the existing partners", "hi": "चालू साझेदारों को लाभ" },
+        { "en": "Loss to the existing partners", "hi": "लाभ में कमी" },
+        { "en": "Gain or loss to the existing partners", "hi": "वर्तमान साझेदारों को लाभ-हानि" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Revaluation is distributed among partners in-",
+      "questionText": {
+        "en": "Revaluation is distributed among partners in-",
+        "hi": "पुनर्मूल्यांकन साझेदारों के बीच वितरित किया जाता है-"
+      },
       "options": [
-        "New Ratio",
-        "Sacrificing Ratio",
-        "Old Ratio",
-        "Capital Ratio"
+        { "en": "New Ratio", "hi": "नए अनुपात में" },
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात में" },
+        { "en": "Old Ratio", "hi": "पुराने अनुपात में" },
+        { "en": "Capital Ratio", "hi": "पूँजी अनुपात में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Reconstitution of partnership firm takes place wherever there is -",
+      "questionText": {
+        "en": "Reconstitution of partnership firm takes place wherever there is -",
+        "hi": "साझेदारी फर्म का पुनर्गठन तब होता है जब कभी भी होता है-"
+      },
       "options": [
-        "Admission of a partner",
-        "Retirement of an existing partner",
-        "Change in profit-sharing ratio of partners",
-        "All the above"
+        { "en": "Admission of a partner", "hi": "नये साझेदार का प्रवेश" },
+        { "en": "Retirement of an existing partner", "hi": "साझेदार का अवकाश ग्रहण" },
+        { "en": "Change in profit-sharing ratio of partners", "hi": "साझेदारों के लाभ-विभाजन अनुपात में परिवर्तन" },
+        { "en": "All the above", "hi": "उपरोक्त सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "For the firm, interest on Drawings is-",
+      "questionText": {
+        "en": "For the firm, interest on Drawings is-",
+        "hi": "फर्म के लिए, आहरण पर ब्याज है-"
+      },
       "options": [
-        "Expense",
-        "Loss",
-        "Income",
-        "None of these"
+        { "en": "Expense", "hi": "व्यय" },
+        { "en": "Loss", "hi": "हानि" },
+        { "en": "Income", "hi": "आय" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Change in profit-sharing ratio of existing partners results in -",
+      "questionText": {
+        "en": "Change in profit-sharing ratio of existing partners results in -",
+        "hi": "मौजूदा साझेदारों के लाभ-विभाजन अनुपात में परिवर्तन के परिणामस्वरूप -"
+      },
       "options": [
-        "Revaluation of Firm",
-        "Reconstitution of Firm",
-        "Dissolution of Firm",
-        "None of these"
+        { "en": "Revaluation of Firm", "hi": "फर्म का पुनर्मूल्यांकन" },
+        { "en": "Reconstitution of Firm", "hi": "फर्म का पुनर्गठन" },
+        { "en": "Dissolution of Firm", "hi": "फर्म का समापन" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Change in partnership agreement results in-",
+      "questionText": {
+        "en": "Change in partnership agreement results in-",
+        "hi": "साझेदारी समझौते में परिवर्तन के परिणामस्वरूप -"
+      },
       "options": [
-        "Reconstitution of Firm",
-        "Dissolution of Firm",
-        "Revaluation Account",
-        "None of these"
+        { "en": "Reconstitution of Firm", "hi": "फर्म का पुनर्गठन" },
+        { "en": "Dissolution of Firm", "hi": "फर्म का समापन" },
+        { "en": "Revaluation Account", "hi": "पुनर्मूल्यांकन खाता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Change in profit-sharing ratio among partners-",
+      "questionText": {
+        "en": "Change in profit-sharing ratio among partners-",
+        "hi": "साझेदारों के बीच लाभ-विभाजन अनुपात में परिवर्तन -"
+      },
       "options": [
-        "Changes the relationship among the partners",
-        "Results in end of partnership business",
-        "None of these",
-        "None of these"
+        { "en": "Changes the relationship among the partners", "hi": "साझेदारों के मध्य सम्बन्ध बदल जाते हैं" },
+        { "en": "Results in end of partnership business", "hi": "साझेदारी व्यवसाय का अन्त हो जाता है" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Revaluation Account or Profit and Loss Adjustment Account is a -",
+      "questionText": {
+        "en": "Revaluation Account or Profit and Loss Adjustment Account is a -",
+        "hi": "पुनर्मूल्यांकन खाता या लाभ और हानि समायोजन खाता एक है-"
+      },
       "options": [
-        "Personal Account",
-        "Real Account",
-        "Nominal Account",
-        "None of these"
+        { "en": "Personal Account", "hi": "व्यक्तिगत खाता" },
+        { "en": "Real Account", "hi": "वास्तविक खाता" },
+        { "en": "Nominal Account", "hi": "नाममात्र खाता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Revaluation Account or Profit and Loss Adjustment Account is transferred to Old Partners' Capital Accounts in their -",
+      "questionText": {
+        "en": "Revaluation Account or Profit and Loss Adjustment Account is transferred to Old Partners' Capital Accounts in their -",
+        "hi": "पुनर्मूल्यांकन खाता या लाभ और हानि समायोजन खाता पुराने साझेदारों के पूंजी खातों में स्थानांतरित किया जाता है उनके -"
+      },
       "options": [
-        "Old Profit-sharing Ratio",
-        "New Profit-sharing Ratio",
-        "Equal Ratio",
-        "None of these"
+        { "en": "Old Profit-sharing Ratio", "hi": "पुराने लाभ-हानि अनुपात में" },
+        { "en": "New Profit-sharing Ratio", "hi": "लाभ-हानि अनुपात में" },
+        { "en": "Equal Ratio", "hi": "समान अनुपात में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "In the event of a change in profit-sharing ratio, accounting adjustment will be made for-",
+      "questionText": {
+        "en": "In the event of a change in profit-sharing ratio, accounting adjustment will be made for-",
+        "hi": "लाभ-विभाजन अनुपात में परिवर्तन की स्थिति में, लेखांकन समायोजन किया जाएगा -"
+      },
       "options": [
-        "Undistributed Profit",
-        "Reserves",
-        "Change in Profit-sharing Rate can take place",
-        "All of the above"
+        { "en": "Undistributed Profit", "hi": "अवितरित लाभों का" },
+        { "en": "Reserves", "hi": "संचयों का" },
+        { "en": "Change in Profit-sharing Rate can take place", "hi": "लाभ-विभाजन में परिवर्तन हो सकता है" },
+        { "en": "All of the above", "hi": "उपरोक्त सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The cash brought in for goodwill by the new partner is distributed among the existing partners in-",
+      "questionText": {
+        "en": "The cash brought in for goodwill by the new partner is distributed among the existing partners in-",
+        "hi": "नए साझेदार द्वारा ख्याति के लिए लाई गई नकदी मौजूदा साझेदारों के बीच वितरित की जाती है -"
+      },
       "options": [
-        "Profit and Loss Ratio",
-        "Capital Ratio",
-        "Sacrificing Ratio",
-        "None of these"
+        { "en": "Profit and Loss Ratio", "hi": "लाभ-हानि अनुपात में" },
+        { "en": "Capital Ratio", "hi": "पूँजी अनुपात में" },
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Sacrificing ratio is ascertained at the time of-",
+      "questionText": {
+        "en": "Sacrificing ratio is ascertained at the time of-",
+        "hi": "त्याग अनुपात निर्धारित किया जाता है -"
+      },
       "options": [
-        "Admission of a partner",
-        "Retirement of a partner",
-        "Death of a partner",
-        "None of these"
+        { "en": "Admission of a partner", "hi": "एक नये साझेदार के प्रवेश पर" },
+        { "en": "Retirement of a partner", "hi": "एक साझेदार के अवकाश ग्रहण पर" },
+        { "en": "Death of a partner", "hi": "एक साझेदार के मृत्यु पर" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Profit & Loss Appropriation A/c appears in the books, it will be transferred to -",
+      "questionText": {
+        "en": "Profit & Loss Appropriation A/c appears in the books, it will be transferred to -",
+        "hi": "यदि पुस्तकों में लाभ और हानि नियोजन खाता दिखाई देता है, तो इसे स्थानांतरित कर दिया जाएगा -"
+      },
       "options": [
-        "All Partners' Capital A/cs",
-        "Old Partners' Capital A/cs",
-        "New Partners' Capital A/cs",
-        "None of these"
+        { "en": "All Partners' Capital A/cs", "hi": "सभी साझेदारों के पूंजी खाते में" },
+        { "en": "Old Partners' Capital A/cs", "hi": "पुराने साझेदारों के पूंजी खाते में" },
+        { "en": "New Partners' Capital A/cs", "hi": "नए साझेदारों के पूंजी खाते में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "When a new partner is admitted, there is dissolution of firm -",
+      "questionText": {
+        "en": "When a new partner is admitted, there is dissolution of firm -",
+        "hi": "जब एक नए साझेदार को प्रवेश दिया जाता है, तो फर्म का विघटन हो जाता है -"
+      },
       "options": [
-        "True",
-        "False",
-        "Partially True",
-        "None of these"
+        { "en": "True", "hi": "सत्य" },
+        { "en": "False", "hi": "असत्य" },
+        { "en": "Partially True", "hi": "आंशिक रूप से सत्य" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Share of goodwill brought in cash by new partner is shared by old partners in -",
+      "questionText": {
+        "en": "Share of goodwill brought in cash by new partner is shared by old partners in -",
+        "hi": "नए साझेदार द्वारा नकद में लाई गई ख्याति का हिस्सा पुराने साझेदारों द्वारा साझा किया जाता है-"
+      },
       "options": [
-        "Profit and Loss Ratio",
-        "Sacrificing Ratio",
-        "New Ratio",
-        "Old Ratio"
+        { "en": "Profit and Loss Ratio", "hi": "लाभ-हानि अनुपात" },
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात" },
+        { "en": "New Ratio", "hi": "नया अनुपात" },
+        { "en": "Old Ratio", "hi": "पुराने अनुपात" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Share of Goodwill brought in cash by the new partner is called -",
+      "questionText": {
+        "en": "Share of Goodwill brought in cash by the new partner is called -",
+        "hi": "नए साझेदार द्वारा नकद में लाई गई ख्याति के हिस्से को कहा जाता है -"
+      },
       "options": [
-        "Assets",
-        "Profit",
-        "Premium",
-        "None of these"
+        { "en": "Assets", "hi": "सम्पत्ति" },
+        { "en": "Profit", "hi": "लाभ" },
+        { "en": "Premium", "hi": "प्रीमियम" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The accumulated profits and reserves are transferred to-",
+      "questionText": {
+        "en": "The accumulated profits and reserves are transferred to-",
+        "hi": "संचित लाभ और संचय स्थानांतरित किए जाते हैं-"
+      },
       "options": [
-        "Realisation A/c",
-        "Partner's Capital A/c",
-        "Bank A/c",
-        "Saving A/c"
+        { "en": "Realisation A/c", "hi": "वसूली खाते में" },
+        { "en": "Partner's Capital A/c", "hi": "साझेदारों के पूंजी खाते में" },
+        { "en": "Bank A/c", "hi": "बैंक खाते में" },
+        { "en": "Saving A/c", "hi": "संचय खाते में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "General Reserve at the time of admission of a new partner is transferred to -",
+      "questionText": {
+        "en": "General Reserve at the time of admission of a new partner is transferred to -",
+        "hi": "एक नए साझेदार के प्रवेश के समय सामान्य संचय स्थानांतरित किया जाता है -"
+      },
       "options": [
-        "Revaluation Account",
-        "Old Partners' Capital Account",
-        "Profit and Loss Adjustment Account",
-        "None of these"
+        { "en": "Revaluation Account", "hi": "पुनर्मूल्यांकन खाता" },
+        { "en": "Old Partners' Capital Account", "hi": "पुराने साझेदारों के पूंजी खाते" },
+        { "en": "Profit and Loss Adjustment Account", "hi": "लाभ-हानि समायोजन खाता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "When goodwill is not recorded in the books of the firm at all on admission of a partner?",
+      "questionText": {
+        "en": "When goodwill is not recorded in the books of the firm at all on admission of a partner?",
+        "hi": "जब एक साझेदार के प्रवेश पर फर्म की पुस्तकों में ख्याति बिल्कुल दर्ज नहीं की जाती है?"
+      },
       "options": [
-        "When goodwill is paid privately",
-        "When goodwill is not brought in cash",
-        "When goodwill is brought in kind",
-        "None of these"
+        { "en": "When goodwill is paid privately", "hi": "जब ख्याति निजी तौर पर नकद में लाई जाती है" },
+        { "en": "When goodwill is not brought in cash", "hi": "जब ख्याति नकद में नहीं लाई जाती है" },
+        { "en": "When goodwill is brought in kind", "hi": "जब ख्याति प्रकार में लाई जाती है" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "When cash is not brought for goodwill by the new partner, it is distributed among the existing partners in?",
+      "questionText": {
+        "en": "When cash is not brought for goodwill by the new partner, it is distributed among the existing partners in?",
+        "hi": "जब नए साझेदार द्वारा ख्याति के लिए नकद नहीं लाया जाता है, तो इसे मौजूदा साझेदारों के बीच वितरित किया जाता है?"
+      },
       "options": [
-        "Sacrificing Ratio",
-        "Capital Ratio",
-        "None of these",
-        "4:3:2:1"
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात में" },
+        { "en": "Capital Ratio", "hi": "पूँजी अनुपात में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" },
+        { "en": "4:3:2:1", "hi": "4:3:2:1" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the retirement of a partner, the whole amount standing to the credit of his capital account should be transferred to -",
+      "questionText": {
+        "en": "On the retirement of a partner, the whole amount standing to the credit of his capital account should be transferred to -",
+        "hi": "एक साझेदार की सेवानिवृत्ति पर, उसके पूंजी खाते के जमा शेष की पूरी राशि स्थानांतरित की जानी चाहिए -"
+      },
       "options": [
-        "In Capital Accounts",
-        "In new profit sharing ratio of remaining partners",
-        "In retiring partner only in his share",
-        "None of these"
+        { "en": "In Capital Accounts", "hi": "पूंजी खाते में" },
+        { "en": "In new profit sharing ratio of remaining partners", "hi": "शेष साझेदारों के नये लाभ-विभाजन अनुपात में" },
+        { "en": "In retiring partner only in his share", "hi": "निवृत्त साझेदार के उसके पूंजी खाते में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the retirement of a partner, Reserve should be transferred to the capital accounts of -",
+      "questionText": {
+        "en": "On the retirement of a partner, Reserve should be transferred to the capital accounts of -",
+        "hi": "एक साझेदार की सेवानिवृत्ति पर, संचय को पूंजी खातों में स्थानांतरित किया जाना चाहिए -"
+      },
       "options": [
-        "Retiring partner",
-        "Remaining partners",
-        "All partners",
-        "None of these"
+        { "en": "Retiring partner", "hi": "अवकाश ग्रहण करने वाले साझेदार के" },
+        { "en": "Remaining partners", "hi": "शेष साझेदारों के" },
+        { "en": "All partners", "hi": "सभी साझेदारों के" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the retirement of a partner, the amount of General Reserve is transferred to all partner's capital account in -",
+      "questionText": {
+        "en": "On the retirement of a partner, the amount of General Reserve is transferred to all partner's capital account in -",
+        "hi": "एक साझेदार की सेवानिवृत्ति पर, सामान्य संचय की राशि सभी साझेदारों के पूंजी खाते में स्थानांतरित की जाती है-"
+      },
       "options": [
-        "New Profit Sharing Ratio",
-        "Capital Ratio",
-        "Old Profit Sharing Ratio",
-        "None of these"
+        { "en": "New Profit Sharing Ratio", "hi": "नए लाभ-हानि अनुपात में" },
+        { "en": "Capital Ratio", "hi": "पूँजी के अनुपात में" },
+        { "en": "Old Profit Sharing Ratio", "hi": "पुराने लाभ-हानि अनुपात में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the retirement of a partner the amount of goodwill is credited to the capital account of -",
+      "questionText": {
+        "en": "On the retirement of a partner the amount of goodwill is credited to the capital account of -",
+        "hi": "एक साझेदार की सेवानिवृत्ति पर ख्याति की राशि के पूंजी खाते में जमा की जाती है-"
+      },
       "options": [
-        "Retiring partner",
-        "Remaining partners",
-        "All partners",
-        "None of these"
+        { "en": "Retiring partner", "hi": "अवकाश ग्रहण करने वाले साझेदार के" },
+        { "en": "Remaining partners", "hi": "शेष साझेदारों के" },
+        { "en": "All partners", "hi": "सभी साझेदारों के" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Outgoing partner is compensated for partnership firm profits in the ratio of -",
+      "questionText": {
+        "en": "Outgoing partner is compensated for partnership firm profits in the ratio of -",
+        "hi": "जाने वाले साझेदार को साझेदारी फर्म के लाभ के लिए मुआवजा दिया जाता है अनुपात में -"
+      },
       "options": [
-        "Gaining Ratio",
-        "Capital Ratio",
-        "Sacrificing Ratio",
-        "Profit-sharing Ratio"
+        { "en": "Gaining Ratio", "hi": "लाभ प्राप्ति अनुपात में" },
+        { "en": "Capital Ratio", "hi": "पूँजी अनुपात में" },
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात में" },
+        { "en": "Profit-sharing Ratio", "hi": "लाभ-हानि अनुपात में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the retirement of a partner, goodwill will be credited to the capital account of -",
+      "questionText": {
+        "en": "On the retirement of a partner, goodwill will be credited to the capital account of -",
+        "hi": "एक साझेदार की सेवानिवृत्ति पर, ख्याति को पूंजी खाते में जमा किया जाएगा -"
+      },
       "options": [
-        "Retiring Partner",
-        "Remaining Partners",
-        "All Partners",
-        "None of these"
+        { "en": "Retiring Partner", "hi": "अवकाश ग्रहण करने वाले साझेदार के" },
+        { "en": "Remaining Partners", "hi": "शेष साझेदारों के" },
+        { "en": "All Partners", "hi": "सभी साझेदारों के" },
+        { "en": "None of these", "hi": "उपर्युक्त कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Unrecorded assets are treated at the time of retirement of a partner?",
+      "questionText": {
+        "en": "Unrecorded assets are treated at the time of retirement of a partner?",
+        "hi": "एक साझेदार की सेवानिवृत्ति के समय अदर्ज सम्पत्तियों का इलाज कैसे किया जाता है?"
+      },
       "options": [
-        "Credited to Revaluation Account",
-        "Debited to Capital Account of Retiring Partner",
-        "Credited to Capital Account",
-        "Credited to Partners' Capital Accounts"
+        { "en": "Credited to Revaluation Account", "hi": "पुनर्मूल्यांकन खाते में क्रेडिट" },
+        { "en": "Debited to Capital Account of Retiring Partner", "hi": "निवृत्त साझेदार के पूंजी खाते को डेबिट किया जाता है" },
+        { "en": "Credited to Capital Account", "hi": "पूंजी खाते में क्रेडिट" },
+        { "en": "Credited to Partners' Capital Accounts", "hi": "साझेदारों के पूंजी खाते को जमा" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Partnership Act provides that interest on amount of capital balance left by the retired partner be paid at-",
+      "questionText": {
+        "en": "Partnership Act provides that interest on amount of capital balance left by the retired partner be paid at-",
+        "hi": "साझेदारी अधिनियम प्रदान करता है कि सेवानिवृत्त साझेदार द्वारा छोड़ी गई पूंजी शेष राशि पर ब्याज का भुगतान किया जाए -"
+      },
       "options": [
-        "5%",
-        "6%",
-        "Bank Rate",
-        "8%"
+        { "en": "5%", "hi": "5%" },
+        { "en": "6%", "hi": "6%" },
+        { "en": "Bank Rate", "hi": "बैंक दर" },
+        { "en": "8%", "hi": "8%" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Gaining ratio means -",
+      "questionText": {
+        "en": "Gaining ratio means -",
+        "hi": "लाभ प्राप्ति अनुपात का अर्थ है-"
+      },
       "options": [
-        "New Ratio - Old Ratio",
-        "Old Ratio - New Ratio",
-        "New Ratio - Sacrificing Ratio",
-        "New Ratio - Sacrificing Ratio"
+        { "en": "New Ratio - Old Ratio", "hi": "नया अनुपात - पुराना अनुपात" },
+        { "en": "Old Ratio - New Ratio", "hi": "पुराना अनुपात - नया अनुपात" },
+        { "en": "New Ratio - Sacrificing Ratio", "hi": "नया अनुपात - त्याग अनुपात" },
+        { "en": "New Ratio - Sacrificing Ratio", "hi": "नया अनुपात - त्याग अनुपात" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "A Joint Life Insurance policy taken out on joint lives of all partners is -",
+      "questionText": {
+        "en": "A Joint Life Insurance policy taken out on joint lives of all partners is -",
+        "hi": "सभी साझेदारों के संयुक्त जीवन पर ली गई एक संयुक्त जीवन बीमा पॉलिसी है -"
+      },
       "options": [
-        "Single Life Policy",
-        "Joint Life Policy",
-        "Firm's Life Policy",
-        "None of these"
+        { "en": "Single Life Policy", "hi": "एकल जीवन पॉलिसी" },
+        { "en": "Joint Life Policy", "hi": "संयुक्त जीवन पॉलिसी" },
+        { "en": "Firm's Life Policy", "hi": "फर्म की जीवन पॉलिसी" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "The amount due to the deceased partner is paid to his-",
+      "questionText": {
+        "en": "The amount due to the deceased partner is paid to his-",
+        "hi": "मृतक साझेदार के देय राशि का भुगतान उसके को किया जाता है-"
+      },
       "options": [
-        "Wife",
-        "Friend",
-        "Family",
-        "Executors"
+        { "en": "Wife", "hi": "पत्नी को" },
+        { "en": "Friend", "hi": "मित्र को" },
+        { "en": "Family", "hi": "परिवार" },
+        { "en": "Executors", "hi": "निष्पादक/उत्तराधिकारी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "JLP (Joint Life Policy) of the partners is a/an...account-",
+      "questionText": {
+        "en": "JLP (Joint Life Policy) of the partners is a/an...account-",
+        "hi": "साझेदारों की संयुक्त जीवन बीमा पॉलिसी (JLP) एक है... खाता -"
+      },
       "options": [
-        "Nominal",
-        "Personal",
-        "Liability",
-        "Asset"
+        { "en": "Nominal", "hi": "नाममात्र" },
+        { "en": "Personal", "hi": "व्यक्तिगत" },
+        { "en": "Liability", "hi": "दायित्व" },
+        { "en": "Asset", "hi": "सम्पत्ति" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Joint Life Policy amount received by a firm is distributed in -",
+      "questionText": {
+        "en": "Joint Life Policy amount received by a firm is distributed in -",
+        "hi": "एक फर्म द्वारा प्राप्त संयुक्त जीवन बीमा पॉलिसी की राशि वितरित की जाती है -"
+      },
       "options": [
-        "Opening Capital Ratio",
-        "Closing Capital Ratio",
-        "Old Profit Sharing Ratio of Partners",
-        "None of these"
+        { "en": "Opening Capital Ratio", "hi": "प्रारम्भिक पूँजी अनुपात में" },
+        { "en": "Closing Capital Ratio", "hi": "अंतिम पूंजी अनुपात में" },
+        { "en": "Old Profit Sharing Ratio of Partners", "hi": "साझेदारों के पुराने लाभ विभाजन अनुपात में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the death of a partner, the whole amount standing to the credit of his capital account is transferred to -",
+      "questionText": {
+        "en": "On the death of a partner, the whole amount standing to the credit of his capital account is transferred to -",
+        "hi": "एक साझेदार की मृत्यु पर, उसके पूंजी खाते के जमा शेष की पूरी राशि स्थानांतरित की जाती है-"
+      },
       "options": [
-        "In Capital Accounts of all partners",
-        "Capital Accounts of remaining partners",
-        "In His Executor's Account",
-        "Account of the Government"
+        { "en": "In Capital Accounts of all partners", "hi": "पुराने साझेदारों के पूंजी खाते में" },
+        { "en": "Capital Accounts of remaining partners", "hi": "शेष साझेदारों के पूंजी खाते में" },
+        { "en": "In His Executor's Account", "hi": "मृतक साझेदार के निष्पादक खाते में" },
+        { "en": "Account of the Government", "hi": "सरकार के खाते में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On the death of a partner in a firm final payments are made through -",
+      "questionText": {
+        "en": "On the death of a partner in a firm final payments are made through -",
+        "hi": "एक फर्म में साझेदार की मृत्यु पर अंतिम भुगतान किए जाते हैं-"
+      },
       "options": [
-        "Capital A/c",
-        "Executor's A/c",
-        "Current A/c",
-        "Loan A/c"
+        { "en": "Capital A/c", "hi": "पूंजी खाते में" },
+        { "en": "Executor's A/c", "hi": "निष्पादक खाते से" },
+        { "en": "Current A/c", "hi": "चालू खाते से" },
+        { "en": "Loan A/c", "hi": "ऋण खाते से" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Revaluation Account is prepared at the time of-",
+      "questionText": {
+        "en": "Revaluation Account is prepared at the time of-",
+        "hi": "पुनर्मूल्यांकन खाता तैयार किया जाता है -"
+      },
       "options": [
-        "Admission of a partner",
-        "Retirement of a partner",
-        "Death of a partner",
-        "All of these"
+        { "en": "Admission of a partner", "hi": "नए साझेदार के प्रवेश" },
+        { "en": "Retirement of a partner", "hi": "साझेदार के अवकाश ग्रहण" },
+        { "en": "Death of a partner", "hi": "साझेदार के मृत्यु" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On death of a partner, share of goodwill of the deceased partner is written off among remaining partners in their-",
+      "questionText": {
+        "en": "On death of a partner, share of goodwill of the deceased partner is written off among remaining partners in their-",
+        "hi": "एक साझेदार की मृत्यु पर, मृतक साझेदार की ख्याति का हिस्सा शेष साझेदारों के बीच लिखा जाता है उनके -"
+      },
       "options": [
-        "New Profit Sharing Ratio",
-        "New Capital Ratio",
-        "Gaining Ratio",
-        "Sacrificing Ratio"
+        { "en": "New Profit Sharing Ratio", "hi": "नए लाभ विभाजन अनुपात में" },
+        { "en": "New Capital Ratio", "hi": "नये पूँजी के अनुपात में" },
+        { "en": "Gaining Ratio", "hi": "लाभ प्राप्त अनुपात में" },
+        { "en": "Sacrificing Ratio", "hi": "त्याग अनुपात में" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Surrender Value of an Insurance Policy means the value -",
+      "questionText": {
+        "en": "Surrender Value of an Insurance Policy means the value -",
+        "hi": "एक बीमा पॉलिसी के आत्मसमर्पण मूल्य का अर्थ है वह मूल्य -"
+      },
       "options": [
-        "Which is received on death of a partner",
-        "Which is received before the due date of the policy",
-        "Which is received before the due date of the policy",
-        "None of these"
+        { "en": "Which is received on death of a partner", "hi": "प्राप्त होगी" },
+        { "en": "Which is received before the due date of the policy", "hi": "जो पॉलिसी के देय होने पर प्राप्त हो" },
+        { "en": "Which is received before the due date of the policy", "hi": "जो पॉलिसी के देय होने पर प्राप्त हो" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On death of a partner, his executor is paid the profits of the deceased partner for the relevant period. This payment is recorded in Profit & Loss___A/c-",
+      "questionText": {
+        "en": "On death of a partner, his executor is paid the profits of the deceased partner for the relevant period. This payment is recorded in Profit & Loss___A/c-",
+        "hi": "एक साझेदार की मृत्यु पर, उसके निष्पादक को relevant अवधि के लिए मृतक साझेदार के लाभ का भुगतान किया जाता है। इस भुगतान को लाभ और हानि खाते में दर्ज किया जाता है -"
+      },
       "options": [
-        "Adjustment",
-        "Appropriation",
-        "Suspense",
-        "Reserve"
+        { "en": "Adjustment", "hi": "समायोजन" },
+        { "en": "Appropriation", "hi": "विनियोग" },
+        { "en": "Suspense", "hi": "संशय" },
+        { "en": "Reserve", "hi": "संचय" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "An account prepared to ascertain the gain or loss at the time of death of a partner is called:",
+      "questionText": {
+        "en": "An account prepared to ascertain the gain or loss at the time of death of a partner is called:",
+        "hi": "एक साझेदार की मृत्यु के समय लाभ या हानि का पता लगाने के लिए तैयार किया गया खाता कहलाता है:"
+      },
       "options": [
-        "Revaluation A/c",
-        "Executor's A/c",
-        "Accumulated A/c",
-        "None of these"
+        { "en": "Revaluation A/c", "hi": "पुनर्मूल्यांकन खाता" },
+        { "en": "Executor's A/c", "hi": "निष्पादक खाता" },
+        { "en": "Accumulated A/c", "hi": "संचयी खाता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On dissolution of a firm, credit balance of Partner's Capital Accounts is paid to:",
+      "questionText": {
+        "en": "On dissolution of a firm, credit balance of Partner's Capital Accounts is paid to:",
+        "hi": "एक फर्म के विघटन पर, साझेदारों के पूंजी खातों का जमा शेष भुगतान किया जाता है:"
+      },
       "options": [
-        "Partner's Loan A/c",
-        "Partners",
-        "Wife",
-        "Firm"
+        { "en": "Partner's Loan A/c", "hi": "साझेदार ऋण खाता" },
+        { "en": "Partners", "hi": "साझेदारों को" },
+        { "en": "Wife", "hi": "पत्नी को" },
+        { "en": "Firm", "hi": "फर्म को" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Amount realised from sale of assets on dissolution of firm is recorded in:",
+      "questionText": {
+        "en": "Amount realised from sale of assets on dissolution of firm is recorded in:",
+        "hi": "फर्म के विघटन पर सम्पत्तियों की बिक्री से प्राप्त राशि दर्ज की जाती है:"
+      },
       "options": [
-        "Debit side of Realisation Account",
-        "Credit side of Realisation Account",
-        "Debit side of Partner's Capital Account",
-        "None of these"
+        { "en": "Debit side of Realisation Account", "hi": "वसूली खाते के नाम पक्ष में" },
+        { "en": "Credit side of Realisation Account", "hi": "वसूली खाते के जमा पक्ष में" },
+        { "en": "Debit side of Partner's Capital Account", "hi": "साझेदार के पूंजी खाते के नाम पक्ष में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On dissolution of a firm, Partner's Loan A/c is transferred to:",
+      "questionText": {
+        "en": "On dissolution of a firm, Partner's Loan A/c is transferred to:",
+        "hi": "एक फर्म के विघटन पर, साझेदार ऋण खाता स्थानांतरित किया जाता है:"
+      },
       "options": [
-        "Realisation Account",
-        "Partners' Capital Accounts",
-        "Partner's Current Account",
-        "None of these"
+        { "en": "Realisation Account", "hi": "वसूली खाते में" },
+        { "en": "Partners' Capital Accounts", "hi": "साझेदारों के पूंजी खातों में" },
+        { "en": "Partner's Current Account", "hi": "साझेदार के चालू खाते में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Expenses on dissolution of a firm are called:",
+      "questionText": {
+        "en": "Expenses on dissolution of a firm are called:",
+        "hi": "एक फर्म के विघटन पर होने वाले खर्चों को कहा जाता है:"
+      },
       "options": [
-        "Realisation Expense",
-        "Legal Expense",
-        "Loss Expense",
-        "None of these"
+        { "en": "Realisation Expense", "hi": "वसूली व्यय" },
+        { "en": "Legal Expense", "hi": "कानूनी व्यय" },
+        { "en": "Loss Expense", "hi": "हानि व्यय" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "A firm can be voluntarily dissolved by the partners:",
+      "questionText": {
+        "en": "A firm can be voluntarily dissolved by the partners:",
+        "hi": "साझेदारों द्वारा एक फर्म को स्वेच्छा से भंग किया जा सकता है:"
+      },
       "options": [
-        "On majority basis",
-        "On 3/4 member's decision",
-        "On 1/2 member's decision",
-        "None of these"
+        { "en": "On majority basis", "hi": "बहुमत के आधार पर" },
+        { "en": "On 3/4 member's decision", "hi": "3/4 सदस्यों के निर्णय पर" },
+        { "en": "On 1/2 member's decision", "hi": "1/2 सदस्यों के निर्णय पर" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On dissolution of a firm, an amount received from an unrecorded asset is credited to:",
+      "questionText": {
+        "en": "On dissolution of a firm, an amount received from an unrecorded asset is credited to:",
+        "hi": "एक फर्म के विघटन पर, एक अदर्ज सम्पत्ति से प्राप्त राशि जमा की जाती है:"
+      },
       "options": [
-        "Realisation Account",
-        "Revaluation Account",
-        "Partner's Capital Account",
-        "None of these"
+        { "en": "Realisation Account", "hi": "वसूली खाते में" },
+        { "en": "Revaluation Account", "hi": "पुनर्मूल्यांकन खाते में" },
+        { "en": "Partner's Capital Account", "hi": "साझेदार के पूंजी खाते में" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Profit/Loss on Realisation Account is distributed among partners in:",
+      "questionText": {
+        "en": "Profit/Loss on Realisation Account is distributed among partners in:",
+        "hi": "वसूली खाते पर लाभ/हानि साझेदारों के बीच वितरित किया जाता है:"
+      },
       "options": [
-        "In Profit-sharing Ratio",
-        "In Capital Ratio",
-        "Equally",
-        "None of these"
+        { "en": "In Profit-sharing Ratio", "hi": "लाभ-विभाजन अनुपात में" },
+        { "en": "In Capital Ratio", "hi": "पूंजी अनुपात में" },
+        { "en": "Equally", "hi": "समान रूप से" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Which of the following is correct profit or loss in case the amount received from the sale of assets is ₹50,000, total assets ₹60,000, total liabilities ₹20,000 and realisation expenses ₹2,000?",
+      "questionText": {
+        "en": "Which of the following is correct profit or loss in case the amount received from the sale of assets is ₹50,000, total assets ₹60,000, total liabilities ₹20,000 and realisation expenses ₹2,000?",
+        "hi": "निम्नलिखित में से कौन सा सही लाभ या हानि है यदि सम्पत्तियों की बिक्री से प्राप्त राशि ₹50,000 है, कुल सम्पत्तियाँ ₹60,000 हैं, कुल दायित्व ₹20,000 हैं और वसूली व्यय ₹2,000 हैं?"
+      },
       "options": [
-        "12,000 Loss",
-        "₹ 32,000 Profit",
-        "₹30,000 Loss",
-        "₹ 12,000 Profit"
+        { "en": "12,000 Loss", "hi": "₹ 12,000 हानि" },
+        { "en": "₹ 32,000 Profit", "hi": "₹ 32,000 लाभ" },
+        { "en": "₹30,000 Loss", "hi": "₹ 30,000 हानि" },
+        { "en": "₹ 12,000 Profit", "hi": "₹ 12,000 लाभ" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "Which of the following is not transferred to Realisation Account?",
+      "questionText": {
+        "en": "Which of the following is not transferred to Realisation Account?",
+        "hi": "निम्नलिखित में से क्या वसूली खाते में स्थानांतरित नहीं किया जाता है?"
+      },
       "options": [
-        "Balance of Cash Account",
-        "Reserves",
-        "Profit & Loss Account",
-        "All of the above"
+        { "en": "Balance of Cash Account", "hi": "रोकड़ खाते की शेष राशि" },
+        { "en": "Reserves", "hi": "संचय" },
+        { "en": "Profit & Loss Account", "hi": "लाभ-हानि खाता" },
+        { "en": "All of the above", "hi": "उपरोक्त सभी" }
       ],
       "correctOptionIndex": 0
     },
     {
-      "questionText": "On taking responsibility of payment of realisation expenses by a partner, the amount credited will be:",
+      "questionText": {
+        "en": "On taking responsibility of payment of realisation expenses by a partner, the amount credited will be:",
+        "hi": "वसूली व्यय के भुगतान की जिम्मेदारी एक साझेदार द्वारा लेने पर, जमा की जाने वाली राशि होगी:"
+      },
       "options": [
-        "Realisation Account",
-        "Cash Account",
-        "Partner's Capital Account",
-        "None of the above"
+        { "en": "Realisation Account", "hi": "वसूली खाता" },
+        { "en": "Cash Account", "hi": "रोकड़ खाता" },
+        { "en": "Partner's Capital Account", "hi": "साझेदार का पूंजी खाता" },
+        { "en": "None of the above", "hi": "उपरोक्त में से कोई नहीं" }
       ],
       "correctOptionIndex": 0
     }

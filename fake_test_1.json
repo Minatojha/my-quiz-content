@@ -28,6 +28,97 @@
         { "en": "In Cash Account", "hi": "रोकड़ खाता में" }
       ],
       "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Life membership fees of non-trading concerns is-",
+        "hi": "गैर-व्यापारिक संस्थाओं के आजीवन सदस्यता शुल्क हैं-"
+      },
+      "options": [
+        { "en": "Capital Receipts", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Revenue Receipts", "hi": "आयगत प्राप्ति" },
+        { "en": "Both", "hi": "दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Legacies should be treated as-",
+        "hi": "विरासत (उत्तरधिकार) के रूप में माना जाना चाहिए -"
+      },
+      "options": [
+        { "en": "Assets", "hi": "सम्पत्ति" },
+        { "en": "Revenue Receipt", "hi": "आयगत प्राप्ति" },
+        { "en": "Capital Receipt", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Payment of Honorarium to secretary is treated as-",
+        "hi": "सचिव को मानदेय का भुगतान माना जाता है-"
+      },
+      "options": [
+        { "en": "Capital Expenditure", "hi": "पूंजीगत व्यय" },
+        { "en": "Revenue Expenditure", "hi": "आयगत व्यय" },
+        { "en": "Both 'A' & 'B'", "hi": "'A' तथा 'B' दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Specific donation is -",
+        "hi": "विशिष्ट दान है -"
+      },
+      "options": [
+        { "en": "Capital Receipt", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Revenue Receipt", "hi": "आयगत प्राप्ति" },
+        { "en": "Asset", "hi": "सम्पत्ति" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Income and Expenditure Account records transactions of-",
+        "hi": "आय और व्यय खाता किस प्रकार के लेन-देन दर्ज करता है-"
+      },
+      "options": [
+        { "en": "Capital nature only", "hi": "केवल पूंजीगत प्रकृति के" },
+        { "en": "Revenue nature only", "hi": "केवल आयगत प्रकृति के" },
+        { "en": "Both Revenue and Capital Nature", "hi": "दोनों पूंजीगत एवं आयगत प्रकृति के" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Outstanding subscription is a/an-",
+        "hi": "बकाया सदस्यता शुल्क एक है-"
+      },
+      "options": [
+        { "en": "Income", "hi": "आय" },
+        { "en": "Asset", "hi": "सम्पत्ति" },
+        { "en": "Liability", "hi": "दायित्व" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Entrance fee, unless otherwise stated, is treated as -",
+        "hi": "प्रवेश शुल्क, जब तक कि अन्यथा न कहा गया हो, माना जाता है-"
+      },
+      "options": [
+        { "en": "Revenue Receipts", "hi": "आयगत प्राप्ति" },
+        { "en": "Capital Receipts", "hi": "पूंजीगत प्राप्ति" },
+        { "en": "Liability", "hi": "दायित्व" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
     }
   ]
 }

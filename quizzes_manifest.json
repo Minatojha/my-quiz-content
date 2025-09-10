@@ -9,15 +9,15 @@
     },
     {
       "id": "acc_002",
-      "title": "Test 1",
+      "title": "Full Test 1",
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json"
     },
     {
       "id": "acc_003",
-      "title": "Test 2",
+      "title": "Mini Test 1",
       "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/fake_test_1.json"
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/mini_test.json"
     },
     {
       "id": "bs_001",
@@ -27,5 +27,6 @@
     }
   ]
 }
+
 
 

@@ -119,6 +119,19 @@
         { "en": "None of these", "hi": "इनमें से कोई नहीं" }
       ],
       "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Most transactions in non-trading concerns are-",
+        "hi": "गैर-व्यापारिक संस्थाओं में अधिकांश लेन-देन होते हैं-"
+      },
+      "options": [
+        { "en": "Cash", "hi": "रोकड़" },
+        { "en": "Credit", "hi": "उधार" },
+        { "en": "Both Cash and Credit", "hi": "रोकड़ एवं उधार दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
     }
   ]
 }

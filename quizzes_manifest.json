@@ -2,13 +2,6 @@
   "version": 1,
   "quizzes": [
     {
-      "id": "acc_001",
-      "title": "Basics of Accounting",
-      "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_quiz_1.json",
-      "dateAdded": "2025-09-10"    
-    },
-    {
       "id": "acc_002",
       "title": "Full Test 1",
       "subject": "Accountancy",
@@ -31,6 +24,7 @@
     }
   ]
 }
+
 
 
 

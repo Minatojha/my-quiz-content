@@ -5,28 +5,33 @@
       "id": "acc_001",
       "title": "Basics of Accounting",
       "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_quiz_1.json"
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_quiz_1.json",
+      "dateAdded": "2025-09-10"    
     },
     {
       "id": "acc_002",
       "title": "Full Test 1",
       "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json"
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
+      "dateAdded": "2025-09-10" 
     },
     {
       "id": "acc_003",
       "title": "Mini Test 1",
       "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/mini_test.json"
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/mini_test.json",
+      "dateAdded": "2025-09-11" 
     },
     {
       "id": "bs_001",
       "title": "Principles of Management",
       "subject": "Business Studies",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/business_studies_quiz_1.json"
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/business_studies_quiz_1.json",
+      "dateAdded": "2025-09-10" 
     }
   ]
 }
+
 
 
 

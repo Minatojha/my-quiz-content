@@ -1,31 +1,68 @@
 {
-  "version": 1,
+  "version": 2,
   "quizzes": [
     {
       "id": "acc_002",
-      "title": "Full Test 1",
+      "title": "Practice: Full Test 1",
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
-      "dateAdded": "2025-09-10" 
-    },
-    {
-      "id": "acc_003",
-      "title": "Mini Test 1",
-      "subject": "Accountancy",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/mini_test.json",
-      "dateAdded": "2025-09-11" 
+      "dateAdded": "2025-09-10",
+      "type": "practice",
+      "classTarget": "Class 12"
     },
     {
       "id": "bs_001",
-      "title": "Principles of Management",
+      "title": "Practice: Principles of Management",
       "subject": "Business Studies",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/business_studies_quiz_1.json",
-      "dateAdded": "2025-09-10" 
+      "dateAdded": "2025-09-11",
+      "type": "practice",
+      "classTarget": "Class 12"
+    },
+    {
+      "id": "math_001",
+      "title": "Practice: Algebra Basics",
+      "subject": "Maths",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/math_quiz_1.json",
+      "dateAdded": "2025-09-12",
+      "type": "practice",
+      "classTarget": "Class 9"
+    },
+    {
+      "id": "math_002_future",
+      "title": "Practice: Geometry (Next Week)",
+      "subject": "Maths",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/math_quiz_2.json",
+      "dateAdded": "2025-09-20",
+      "type": "practice",
+      "classTarget": "Class 9"
+    },
+    {
+      "id": "acc_class12_weekly_1",
+      "title": "Classroom: Partnership Accounts",
+      "subject": "Accountancy",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/acc_class12_weekly_1.json",
+      "dateAdded": "2025-09-15",
+      "type": "classroom",
+      "classTarget": "Class 12"
+    },
+    {
+      "id": "econ_class11_unit_2",
+      "title": "Classroom: Microeconomics Unit 2",
+      "subject": "Economics",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/econ_class11_unit_2.json",
+      "dateAdded": "2025-09-18",
+      "type": "classroom",
+      "classTarget": "Class 11"
+    },
+    {
+      "id": "sci_class10_final",
+      "title": "Classroom: Final Science Exam",
+      "subject": "Science",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/sci_class10_final.json",
+      "dateAdded": "2025-10-01",
+      "type": "classroom",
+      "classTarget": "Class 10"
     }
   ]
 }
-
-
-
-
-

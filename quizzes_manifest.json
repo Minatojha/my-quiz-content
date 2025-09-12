@@ -8,7 +8,7 @@
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/math_quiz_1.json",
       "dateAdded": "2025-09-12",
       "type": "practice",
-      "classTarget": "9"
+      "classTarget": "Class 9"
     },
     {
       "id": "math_002_future",
@@ -17,7 +17,7 @@
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/math_quiz_2.json",
       "dateAdded": "2025-09-20",
       "type": "practice",
-      "classTarget": "9"
+      "classTarget": "Class 9"
     },
     {
       "id": "acc_002",
@@ -26,7 +26,7 @@
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
       "dateAdded": "2025-09-10",
       "type": "classroom",
-      "classTarget": "12"
+      "classTarget": "Class 12"
     },
     {
       "id": "econ_class11_unit_2",
@@ -35,7 +35,7 @@
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/econ_class11_unit_2.json",
       "dateAdded": "2025-09-18",
       "type": "classroom",
-      "classTarget": "11"
+      "classTarget": "Class 11"
     },
     {
       "id": "sci_class10_final",
@@ -44,7 +44,8 @@
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/sci_class10_final.json",
       "dateAdded": "2025-10-01",
       "type": "classroom",
-      "classTarget": "10"
+      "classTarget": "Class 10"
     }
   ]
 }
+

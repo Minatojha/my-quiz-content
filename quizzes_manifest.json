@@ -29,22 +29,14 @@
       "classTarget": "Class 12"
     },
     {
-      "id": "econ_class11_unit_2",
-      "title": "Classroom: Microeconomics Unit 2",
-      "subject": "Economics",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/econ_class11_unit_2.json",
-      "dateAdded": "2025-09-18",
+      "id": "bst_2025_pyq",
+      "title": "Business Studies 2025 PYQ",
+      "subject": "Business Studies",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.jsonn",
+      "dateAdded": "2025-09-13",
       "type": "classroom",
-      "classTarget": "Class 11"
-    },
-    {
-      "id": "sci_class10_final",
-      "title": "Classroom: Final Science Exam",
-      "subject": "Science",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/sci_class10_final.json",
-      "dateAdded": "2025-10-01",
-      "type": "classroom",
-      "classTarget": "Class 10"
+      "classTarget": "Class 12"
     }
   ]
 }
+

@@ -2,16 +2,16 @@
   "version": 2,
   "quizzes": [
     {
-      "id": "acc_002",
-      "title": "Practice: Full Test 1",
+      "id": "acc_001_classroom",
+      "title": "Practice: Full Test 1 (Classroom)",
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
       "dateAdded": "2025-09-10",
       "type": "classroom",
       "classTarget": "Class 12"
     },
-   {
-      "id": "acc_002",
+    {
+      "id": "acc_001_practice", 
       "title": "Practice: Full Test 1",
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
@@ -20,29 +20,22 @@
       "classTarget": "Class 12"
     },
     {
-      "id": "bst_2025_pyq",
-      "title": "Business Studies 2025 PYQ",
-      "subject": "Business Studies",
+      "id": "bst_2025_pyq_classroom",
+      "title": "Business Studies 2025 PYQ (Classroom)",
+      "subject": "Business Studies", 
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.json",
       "dateAdded": "2025-09-13",
       "type": "classroom",
       "classTarget": "Class 12"
     },
     {
-      "id": "bst_2025_pyq",
+      "id": "bst_2025_pyq_practice",
       "title": "Business Studies 2025 PYQ",
       "subject": "Business Studies",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.json",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.json", 
       "dateAdded": "2025-09-13",
       "type": "practice",
       "classTarget": "Class 12"
     }
   ]
 }
-
-
-
-
-
-
-

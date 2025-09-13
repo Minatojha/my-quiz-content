@@ -7,7 +7,7 @@
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
       "dateAdded": "2025-09-10",
-      "type": "classroom",
+      "type": "practice",
       "classTarget": "Class 12"
     },
     {
@@ -16,7 +16,7 @@
       "subject": "Accountancy",
       "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
       "dateAdded": "2025-09-10",
-      "type": "practice",
+      "type": "classroom",
       "classTarget": "Class 12"
     },
     {
@@ -39,6 +39,7 @@
     }
   ]
 }
+
 
 
 

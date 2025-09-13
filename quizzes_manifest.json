@@ -23,7 +23,7 @@
       "id": "bst_2025_pyq",
       "title": "Business Studies 2025 PYQ",
       "subject": "Business Studies",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_2025_pyq.json",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.json",
       "dateAdded": "2025-09-13",
       "type": "classroom",
       "classTarget": "Class 12"
@@ -32,13 +32,14 @@
       "id": "bst_2025_pyq",
       "title": "Business Studies 2025 PYQ",
       "subject": "Business Studies",
-      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_2025_pyq.json",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/bst_001.json",
       "dateAdded": "2025-09-13",
       "type": "practice",
       "classTarget": "Class 12"
     }
   ]
 }
+
 
 
 

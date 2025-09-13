@@ -1,0 +1,1307 @@
+{
+  "id": "bst_2025_pyq",
+  "title": "Business Studies 2025 PYQ",
+  "subject": "Business Studies",
+  "questions": [
+    {
+      "questionText": {
+        "en": "creates liquidity.",
+        "hi": "तरलता का निर्माण करता है"
+      },
+      "options": [
+        { "en": "Organised market", "hi": "संगठित बाजार" },
+        { "en": "Unorganised market", "hi": "असंगठित बाजार" },
+        { "en": "Primary market", "hi": "प्राथमिक बाजार" },
+        { "en": "Secondary market", "hi": "गौण बाजार" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "deals in new issued shares.",
+        "hi": "नवीन निर्गमित अंशों में व्यवहार करता है"
+      },
+      "options": [
+        { "en": "Secondary market", "hi": "गौण बाजार" },
+        { "en": "Primary market", "hi": "प्राथमिक बाजार" },
+        { "en": "Both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Legally SEBI was established in",
+        "hi": "वैधानिक रूप से सेबी की स्थापना हुई थी"
+      },
+      "options": [
+        { "en": "1988", "hi": "1988 में" },
+        { "en": "1990", "hi": "1990 में" },
+        { "en": "1992", "hi": "1992 में" },
+        { "en": "1994", "hi": "1994 में" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "The future of Stock Exchanges in India is",
+        "hi": "भारत में स्कंध विपणियों का भविष्य है"
+      },
+      "options": [
+        { "en": "bright", "hi": "उज्ज्वल" },
+        { "en": "in dark", "hi": "अंधेरे में" },
+        { "en": "ordinary", "hi": "सामान्य" },
+        { "en": "no future", "hi": "कोई भविष्य नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Who is the writer of the book 'Principles of Marketing'?",
+        "hi": "'प्रिंसिपस ऑफ मार्केटिंग' पुस्तक के लेखक कौन है ?"
+      },
+      "options": [
+        { "en": "Philip Kotler", "hi": "फिलिप कोटलर" },
+        { "en": "Prof. William J. Stanton", "hi": "प्रो० विलियम जे. स्टेनटन" },
+        { "en": "Richard Briskik", "hi": "रिचार्ड ब्रिसकिक" },
+        { "en": "Prof. J. P. Verma", "hi": "प्रो० जे. पी. वर्मा" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Marketing concept is",
+        "hi": "विपणन अवधारणा है"
+      },
+      "options": [
+        { "en": "production-oriented", "hi": "उत्पादोन्मुखी" },
+        { "en": "sales-oriented", "hi": "विक्रयोन्मुखी" },
+        { "en": "customer-oriented", "hi": "ग्राहकोन्मुखी" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Money spent on marketing is",
+        "hi": "विपणन पर व्यय किया गया धन है"
+      },
+      "options": [
+        { "en": "wastage", "hi": "बर्बादी" },
+        { "en": "unnecessary expenditure", "hi": "अनावश्यक व्यय" },
+        { "en": "burden on the customer", "hi": "ग्राहकों पर भार" },
+        { "en": "investment", "hi": "विनियोजन" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Marketing expenditure is a burden on",
+        "hi": "विपणन व्यय भार है"
+      },
+      "options": [
+        { "en": "industry", "hi": "उद्योग पर" },
+        { "en": "businessmen", "hi": "व्यवसायों पर" },
+        { "en": "customers", "hi": "उपभोक्ताओं पर" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "For business, marketing is",
+        "hi": "व्यवसाय के लिये विपणन है"
+      },
+      "options": [
+        { "en": "compulsory", "hi": "अनिवार्य" },
+        { "en": "necessary", "hi": "आवश्यक" },
+        { "en": "unnecessary", "hi": "अनावश्यक" },
+        { "en": "luxury", "hi": "विलासिता" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Costliest means of sales promotion is",
+        "hi": "विक्रय प्रवर्तन का सबसे महंगा साधन है"
+      },
+      "options": [
+        { "en": "Advertisement", "hi": "विज्ञापन" },
+        { "en": "Personal selling", "hi": "व्यक्तिगत विक्रय" },
+        { "en": "Sales promotion", "hi": "विक्रय संवर्धन" },
+        { "en": "Public relations", "hi": "जन सम्पर्क" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Supervisor is the ______ workers.",
+        "hi": "पर्यवेक्षक कर्मचारियों का है"
+      },
+      "options": [
+        { "en": "Friend", "hi": "मित्र" },
+        { "en": "Guide", "hi": "मार्गदर्शक" },
+        { "en": "Philosopher", "hi": "दार्शनिक" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "direction is related to employees.",
+        "hi": "निर्देशन कर्मचारियों से सम्बन्धित है।"
+      },
+      "options": [
+        { "en": "Top level", "hi": "उच्च स्तर" },
+        { "en": "Middle level", "hi": "मध्यम स्तर" },
+        { "en": "Lower level", "hi": "निम्न स्तर" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Supervision is",
+        "hi": "पर्यवेक्षण है"
+      },
+      "options": [
+        { "en": "Necessary", "hi": "आवश्यक" },
+        { "en": "Unnecessary", "hi": "अनावश्यक" },
+        { "en": "Wastage of time", "hi": "समय की बर्बादी" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Direction is required at what level of management ?",
+        "hi": "निर्देशन की प्रबन्ध के किस स्तर पर आवश्यकता होती है ?"
+      },
+      "options": [
+        { "en": "Top", "hi": "उच्च" },
+        { "en": "Middle", "hi": "मध्यम" },
+        { "en": "Lower", "hi": "निम्न" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Element of direction is",
+        "hi": "निर्देशन का तत्व है"
+      },
+      "options": [
+        { "en": "Supervision", "hi": "पर्यवेक्षण" },
+        { "en": "Motivation", "hi": "अभिप्रेरण" },
+        { "en": "Leadership", "hi": "नेतृत्व" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Direction is not the ______ aspect of management.",
+        "hi": "निर्देशन प्रबन्ध का ______ पहलू नहीं है।"
+      },
+      "options": [
+        { "en": "Practical", "hi": "व्यावहारिक" },
+        { "en": "Theoretical", "hi": "सैद्धांतिक" },
+        { "en": "Interpersonal", "hi": "अन्तर-व्यक्तिगत" },
+        { "en": "Positive", "hi": "सकारात्मक" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Direction is",
+        "hi": "निर्देशन है"
+      },
+      "options": [
+        { "en": "Compulsory", "hi": "अनिवार्य" },
+        { "en": "Necessary", "hi": "आवश्यक" },
+        { "en": "Unnecessary", "hi": "अनावश्यक" },
+        { "en": "Wastage of time", "hi": "समय की बर्बादी" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "The leader takes work from his subordinates",
+        "hi": "नेता अधीनस्थों से काम लेता है"
+      },
+      "options": [
+        { "en": "by tact", "hi": "चातुर्य से" },
+        { "en": "by rod", "hi": "डण्डे से" },
+        { "en": "by threatening", "hi": "धमकाकर" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "In horizontal communication flow of suggestion is",
+        "hi": "समतल संदेशवाहन में सुझाव का प्रवाह होता है"
+      },
+      "options": [
+        { "en": "upward", "hi": "ऊपर की ओर" },
+        { "en": "downward", "hi": "नीचे की ओर" },
+        { "en": "at parallel", "hi": "समतल स्तर पर" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Management control is done by",
+        "hi": "प्रबन्धकीय नियंत्रण किया जाता है"
+      },
+      "options": [
+        { "en": "lower level managers", "hi": "निम्न स्तरीय प्रबन्धकों द्वारा" },
+        { "en": "middle level managers", "hi": "मध्यम स्तरीय प्रबन्धकों द्वारा" },
+        { "en": "top level managers", "hi": "उच्चतम स्तरीय प्रबन्धकों द्वारा" },
+        { "en": "all level managers", "hi": "सभी स्तरीय प्रबन्धकों द्वारा" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Management is an art of",
+        "hi": "प्रबन्ध कला है"
+      },
+      "options": [
+        { "en": "doing work himself", "hi": "स्वयं काम करने की" },
+        { "en": "taking work from others", "hi": "दूसरों से काम लेने की" },
+        { "en": "both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "The nature of management is",
+        "hi": "प्रबन्ध की प्रकृति है"
+      },
+      "options": [
+        { "en": "as an inborn ability", "hi": "जन्मजात प्रतिभा के रूप में" },
+        { "en": "as an acquired ability", "hi": "अर्जित प्रतिभा के रूप में" },
+        { "en": "both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "\"Management is the development of men and not the direction of things.\" This statement is of",
+        "hi": "\"प्रबन्ध व्यक्तियों का विकास है, न कि वस्तुओं का निर्देशन\" यह कथन किसका है ?"
+      },
+      "options": [
+        { "en": "Lawrence A. Appley", "hi": "लरेन्स ए. एप्पले का" },
+        { "en": "R. C. Davis", "hi": "आर. सी. डेविस का" },
+        { "en": "Keith and Gubelline", "hi": "कीथ एवं गुबलिन का" },
+        { "en": "George R. Terry", "hi": "जॉर्ज आर. टेरी का" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "The foremost need in development of a country is of",
+        "hi": "किसी भी देश के विकास में सबसे अधिक आवश्यकता है"
+      },
+      "options": [
+        { "en": "Physical resources", "hi": "भौतिक संसाधन की" },
+        { "en": "Economic resources", "hi": "आर्थिक संसाधन की" },
+        { "en": "Efficient management", "hi": "कुशल प्रबन्ध की" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Management is a delicate responsibility as it involves",
+        "hi": "प्रबन्ध एक नाजुक उत्तरदायित्व है, क्योंकि इसमें सम्मिलित है"
+      },
+      "options": [
+        { "en": "Money", "hi": "मुद्रा" },
+        { "en": "Machine", "hi": "मशीन" },
+        { "en": "Men", "hi": "मनुष्य" },
+        { "en": "Materials", "hi": "सामग्री" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Maximum incentive giving function of management to employees is",
+        "hi": "प्रबन्ध का कर्मचारियों को सर्वाधिक प्रेरणा देने वाला कार्य है"
+      },
+      "options": [
+        { "en": "Staffing", "hi": "नियुक्तिकरण" },
+        { "en": "Motivation", "hi": "अभिप्रेरण" },
+        { "en": "Organisation", "hi": "संगठन" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "How many levels of management are there?",
+        "hi": "प्रबन्ध के कितने स्तर हैं ?"
+      },
+      "options": [
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "2", "hi": "2" },
+        { "en": "1", "hi": "1" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Coordination is established",
+        "hi": "समन्वय स्थापित किया जाता है"
+      },
+      "options": [
+        { "en": "between groups", "hi": "समूहों के मध्य" },
+        { "en": "between departments", "hi": "विभागों के मध्य" },
+        { "en": "between management and employees", "hi": "प्रबन्ध एवं कर्मचारियों के मध्य" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Coordination is",
+        "hi": "समन्वय है"
+      },
+      "options": [
+        { "en": "voluntary", "hi": "ऐच्छिक" },
+        { "en": "necessary", "hi": "आवश्यक" },
+        { "en": "unnecessary", "hi": "अनावश्यक" },
+        { "en": "wastage of time", "hi": "समय की बर्बादी" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "According to George R. Terry, the functions of management are",
+        "hi": "जॉर्ज आर. टेरी के अनुसार प्रबन्ध के कार्य हैं"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Method(s) of development is/are",
+        "hi": "विकास की विधियाँ हैं"
+      },
+      "options": [
+        { "en": "position rotation", "hi": "पद हेरफेर" },
+        { "en": "short-term syllabus", "hi": "अल्पकालीन पाठ्यक्रम" },
+        { "en": "development on the job", "hi": "कार्य पर विकास" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Method(s) of training is/are",
+        "hi": "प्रशिक्षण की विधियाँ है"
+      },
+      "options": [
+        { "en": "Job rotation training", "hi": "कार्य बदली प्रशिक्षण" },
+        { "en": "On the job training", "hi": "कार्य पर प्रशिक्षण" },
+        { "en": "Apprenticeship training", "hi": "प्रशिक्षुता प्रशिक्षण" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Staffing is",
+        "hi": "नियुक्तिकरण है"
+      },
+      "options": [
+        { "en": "to plan", "hi": "नियोजन करना" },
+        { "en": "to control", "hi": "नियंत्रण करना" },
+        { "en": "to direct", "hi": "निर्देशित करना" },
+        { "en": "to appoint the persons on work", "hi": "व्यक्तियों को कार्य पर लगाना" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Selection of executives is",
+        "hi": "अधिकारियों का चयन होता है"
+      },
+      "options": [
+        { "en": "Lower level executives", "hi": "निम्न श्रेणी के अधिकारियों का" },
+        { "en": "Middle level executives", "hi": "मध्यम श्रेणी के अधिकारियों का" },
+        { "en": "Top level executives", "hi": "उच्चतम श्रेणी के अधिकारियों का" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Objective of development is",
+        "hi": "विकास का उद्देश्य है"
+      },
+      "options": [
+        { "en": "Opportunities of promotion", "hi": "पदोन्नति के अवसर" },
+        { "en": "Better performance", "hi": "श्रेष्ठ निष्पादन" },
+        { "en": "Increase in skills", "hi": "कौशल में वृद्धि" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "The manager is",
+        "hi": "प्रबन्धक होता है"
+      },
+      "options": [
+        { "en": "Boss", "hi": "बॉस" },
+        { "en": "Owner", "hi": "स्वामी" },
+        { "en": "Leader", "hi": "नेता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "The leader has ______ authority.",
+        "hi": "नेता के पास सत्ता होती है"
+      },
+      "options": [
+        { "en": "Informal", "hi": "अनौपचारिक" },
+        { "en": "Formal", "hi": "औपचारिक" },
+        { "en": "Personal", "hi": "निजी" },
+        { "en": "Government", "hi": "सरकारी" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Grapevine communication is",
+        "hi": "अंगूरीबेल संदेशवाहन होता है"
+      },
+      "options": [
+        { "en": "Informal", "hi": "अनौपचारिक" },
+        { "en": "Formal", "hi": "औपचारिक" },
+        { "en": "Written", "hi": "लिखित" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "The main element(s) of direction is/are",
+        "hi": "निर्देशन के प्रमुख तत्व हैं"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Supervision is the ______ level of management.",
+        "hi": "पर्यवेक्षण प्रबन्ध का स्तर है"
+      },
+      "options": [
+        { "en": "Top", "hi": "उच्च" },
+        { "en": "Middle", "hi": "मध्यम" },
+        { "en": "Low", "hi": "निम्न" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Principle of management is",
+        "hi": "प्रबन्ध का सिद्धान्त है"
+      },
+      "options": [
+        { "en": "Dynamic", "hi": "गतिशील" },
+        { "en": "Flexible", "hi": "लोचशील" },
+        { "en": "Universal", "hi": "सार्वभौमिक" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "When was scientific management introduced?",
+        "hi": "वैज्ञानिक प्रबन्ध कब प्रारम्भ हुआ ?"
+      },
+      "options": [
+        { "en": "1913", "hi": "1913" },
+        { "en": "1832", "hi": "1832" },
+        { "en": "1903", "hi": "1903" },
+        { "en": "1923", "hi": "1923" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Liberalisation policy in India has been",
+        "hi": "भारत में उदारीकरण की नीति रही है"
+      },
+      "options": [
+        { "en": "Successful", "hi": "सफल" },
+        { "en": "Unsuccessful", "hi": "असफल" },
+        { "en": "Total failure", "hi": "पूर्णतः असफल" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Which of the following is an example of social environment?",
+        "hi": "सामाजिक वातावरण का निम्नलिखित में से कौन-सा उदाहरण है ?"
+      },
+      "options": [
+        { "en": "Money supply in the economy", "hi": "अर्थव्यवस्था में मुद्रा की आपूर्ति" },
+        { "en": "Consumer Protection Act", "hi": "उपभोक्ता संरक्षण अधिनियम" },
+        { "en": "Constitution of country", "hi": "देश का संविधान" },
+        { "en": "Composition of family", "hi": "परिवार की संरचना" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Economic environment of business is influenced by",
+        "hi": "व्यवसाय के आर्थिक वातावरण को प्रभावित करते हैं"
+      },
+      "options": [
+        { "en": "Economic policy", "hi": "आर्थिक नीति" },
+        { "en": "Economic system", "hi": "आर्थिक प्रणाली" },
+        { "en": "Economic development", "hi": "आर्थिक विकास" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Planning is",
+        "hi": "नियोजन है"
+      },
+      "options": [
+        { "en": "Goal-oriented", "hi": "लक्ष्य अभिमुखी" },
+        { "en": "Objective-oriented", "hi": "उद्देश्य अभिमुखी" },
+        { "en": "Mental process", "hi": "मानसिक प्रक्रिया" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Which of the following is not a limitation of planning ?",
+        "hi": "निम्नलिखित में से कौन-सी नियोजन की सीमा नहीं है ?"
+      },
+      "options": [
+        { "en": "Rigidity", "hi": "संकीर्णता" },
+        { "en": "Wastage of time", "hi": "समय की बर्बादी" },
+        { "en": "Basis of control", "hi": "नियंत्रण का आधार" },
+        { "en": "Huge cost", "hi": "अत्यधिक लागत" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Planning is",
+        "hi": "नियोजन है"
+      },
+      "options": [
+        { "en": "Necessary", "hi": "आवश्यक" },
+        { "en": "Unnecessary", "hi": "अनावश्यक" },
+        { "en": "Wastage of time", "hi": "समय की बर्बादी" },
+        { "en": "Wastage of money", "hi": "धन की बर्बादी" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Budget refers to",
+        "hi": "बजट का अर्थ है"
+      },
+      "options": [
+        { "en": "planned target of performance", "hi": "निष्पादन का नियोजित लक्ष्य" },
+        { "en": "use of handling future activities", "hi": "भविष्य के कार्यकलाप का प्रयोग" },
+        { "en": "systematic action", "hi": "व्यवस्थित कार्यवाही" },
+        { "en": "statement of expected results expressed in numerical terms", "hi": "आशान्वित परिणाम को अंकों में विवरण" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "The planning is ______ step of management.",
+        "hi": "नियोजन प्रबन्ध का चरण है"
+      },
+      "options": [
+        { "en": "First", "hi": "प्रथम" },
+        { "en": "Medium", "hi": "मध्यम" },
+        { "en": "Last", "hi": "अंतिम" },
+        { "en": "Optional", "hi": "वैकल्पिक" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "In a business enterprise controlling is needed",
+        "hi": "व्यावसायिक उपक्रम में नियंत्रण की आवश्यकता होती है"
+      },
+      "options": [
+        { "en": "at the time of establishment of business", "hi": "व्यवसाय की स्थापना के समय" },
+        { "en": "at the time of operation of business", "hi": "व्यवसाय के संचालन के समय" },
+        { "en": "at the end of the year", "hi": "वर्ष के अन्त में" },
+        { "en": "continuously", "hi": "निरन्तर" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Controlling is the ______ function of management.",
+        "hi": "नियंत्रण प्रबन्ध का कार्य है"
+      },
+      "options": [
+        { "en": "first", "hi": "प्रथम" },
+        { "en": "second", "hi": "द्वितीय" },
+        { "en": "third", "hi": "तृतीय" },
+        { "en": "last", "hi": "अन्तिम" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Effective controlling is",
+        "hi": "प्रभावी नियंत्रण है"
+      },
+      "options": [
+        { "en": "Static", "hi": "स्थिर" },
+        { "en": "Pre-determined", "hi": "पूर्व निर्धारित" },
+        { "en": "Dynamic", "hi": "गत्यात्मक" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Control is a managerial function.",
+        "hi": "नियंत्रण प्रबन्धकीय कार्य है"
+      },
+      "options": [
+        { "en": "compulsory", "hi": "अनिवार्य" },
+        { "en": "necessary", "hi": "आवश्यक" },
+        { "en": "optional", "hi": "ऐच्छिक" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "An efficient control system helps to",
+        "hi": "एक प्रभावी नियंत्रण तन्त्र सहायक होती है"
+      },
+      "options": [
+        { "en": "accomplish organisational objectives", "hi": "संगठनात्मक लक्ष्यों की प्राप्ति में" },
+        { "en": "boost employees morale", "hi": "कर्मचारियों की मनोदशा के संवर्धन में" },
+        { "en": "judge accuracy of standards", "hi": "मानकों की यथार्थता के निर्णय में" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "The source of fixed capital is not",
+        "hi": "स्थायी पूँजी का स्रोत नहीं है"
+      },
+      "options": [
+        { "en": "Issue of debentures", "hi": "ऋणपत्रों का निर्गमन" },
+        { "en": "Issue of shares", "hi": "अंशों का निर्गमन" },
+        { "en": "Creditors", "hi": "ऋणदाता" },
+        { "en": "Loan from IFCI", "hi": "भारतीय औद्योगिक वित्त निगम से ऋण" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Modern approach of financial management is",
+        "hi": "वित्तीय प्रबन्ध की आधुनिक विचारधारा है"
+      },
+      "options": [
+        { "en": "procurement of funds", "hi": "कोषों को प्राप्त करना" },
+        { "en": "utilisation of funds", "hi": "कोषों का उपयोग करना" },
+        { "en": "both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Main function(s) of financial management is/are",
+        "hi": "वित्तीय प्रबन्ध का मुख्य कार्य है"
+      },
+      "options": [
+        { "en": "Financial planning", "hi": "वित्तीय नियोजन" },
+        { "en": "Procurement of funds", "hi": "कोषों को प्राप्त करना" },
+        { "en": "Allocation of net profit", "hi": "शुद्ध लाभ का आवंटन" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Financial manager takes decision as to",
+        "hi": "वित्तीय प्रबन्धक निर्णय लेता है"
+      },
+      "options": [
+        { "en": "Financial", "hi": "वित्तीय" },
+        { "en": "Investment", "hi": "विनियोग" },
+        { "en": "Dividend", "hi": "लाभांश" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Financial management is",
+        "hi": "वित्तीय प्रबन्ध है"
+      },
+      "options": [
+        { "en": "Art", "hi": "कला" },
+        { "en": "Science", "hi": "विज्ञान" },
+        { "en": "Both art and science", "hi": "कला एवं विज्ञान दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Traditional approach of financial management was discarded during",
+        "hi": "वित्तीय प्रबन्ध की परम्परागत विचारधारा को त्याग दिया गया था"
+      },
+      "options": [
+        { "en": "1910-20", "hi": "1910-20 में" },
+        { "en": "1920-30", "hi": "1920-30 में" },
+        { "en": "1930-40", "hi": "1930-40 में" },
+        { "en": "1940-50", "hi": "1940-50 में" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Feature of sound financial planning is",
+        "hi": "सुदृढ़ वित्तीय नियोजन की विशेषता है"
+      },
+      "options": [
+        { "en": "Simplicity", "hi": "सरलता" },
+        { "en": "Liquidity", "hi": "तरलता" },
+        { "en": "Economy", "hi": "मितव्ययिता" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Determinant of working capital is",
+        "hi": "कार्यशील पूँजी का निर्धारक है"
+      },
+      "options": [
+        { "en": "size of enterprise", "hi": "संस्था का आकार" },
+        { "en": "manufacturing process", "hi": "निर्माण प्रक्रिया की अवधि" },
+        { "en": "availability of raw material", "hi": "कच्चे माल की उपलब्धता" },
+        { "en": "all of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Fixed capital is required",
+        "hi": "स्थायी पूँजी की आवश्यकता होती है"
+      },
+      "options": [
+        { "en": "For payment of routine expenses", "hi": "दैनिक व्ययों का भुगतान करने के लिए" },
+        { "en": "For purchase of land", "hi": "भूमि खरीदने के लिए" },
+        { "en": "For purchase of stock", "hi": "स्टॉक खरीदने के लिए" },
+        { "en": "For payment to creditors", "hi": "लेनदारों का भुगतान करने के लिए" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "The determinant of bonus decision is",
+        "hi": "बोनस निर्णय का निर्धारक है"
+      },
+      "options": [
+        { "en": "Amount of profit", "hi": "लाभों की मात्रा" },
+        { "en": "Liquidity of funds", "hi": "कोषों में तरलता" },
+        { "en": "Age of the company", "hi": "कम्पनी की आयु" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Who controls the money market in India?",
+        "hi": "भारत में मुद्रा बाजार का नियन्त्रण कौन करता है ?"
+      },
+      "options": [
+        { "en": "Finance Department", "hi": "वित्त विभाग" },
+        { "en": "RBI", "hi": "रिजर्व बैंक ऑफ इण्डिया" },
+        { "en": "Financial Institutions", "hi": "वित्तीय संस्थायें" },
+        { "en": "SEBI", "hi": "सेबी" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Which is the main problem of money market?",
+        "hi": "मुद्रा बाजार की मुख्य समस्या कौन-सी है ?"
+      },
+      "options": [
+        { "en": "Lack of capital", "hi": "पूँजी की कमी" },
+        { "en": "Hundi", "hi": "हुण्डी" },
+        { "en": "Lack of market", "hi": "बाजार की कमी" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Money market deals in",
+        "hi": "मुद्रा बाजार व्यवहार करता है"
+      },
+      "options": [
+        { "en": "Short-term funds", "hi": "अल्पकालीन कोष" },
+        { "en": "Medium-term funds", "hi": "मध्यकालीन कोष" },
+        { "en": "Long-term funds", "hi": "दीर्घकालीन कोष" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "The number of stock exchanges in India at present is",
+        "hi": "वर्तमान में भारत में स्कंध विपणियों की संख्या है"
+      },
+      "options": [
+        { "en": "21", "hi": "21" },
+        { "en": "23", "hi": "23" },
+        { "en": "24", "hi": "24" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Capital market deals in",
+        "hi": "पूँजी बाजार व्यवहार करता है"
+      },
+      "options": [
+        { "en": "Short-term funds", "hi": "अल्पकालीन कोष" },
+        { "en": "Medium-term funds", "hi": "मध्यकालीन कोष" },
+        { "en": "Long-term funds", "hi": "दीर्घकालीन कोष" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "The birthplace of concept of marketing management is",
+        "hi": "विपणन प्रबन्ध अवधारणा का जन्म स्थान है"
+      },
+      "options": [
+        { "en": "England", "hi": "इंग्लैण्ड" },
+        { "en": "America", "hi": "अमेरिका" },
+        { "en": "France", "hi": "फ्रांस" },
+        { "en": "Japan", "hi": "जापान" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Consumer Protection Act is effective in India from",
+        "hi": "भारत में उपभोक्ता संरक्षण अधिनियम प्रभावी है"
+      },
+      "options": [
+        { "en": "1986", "hi": "1986 से" },
+        { "en": "1987", "hi": "1987 से" },
+        { "en": "1988", "hi": "1988 से" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Under the Consumer Protection Act, complainant means",
+        "hi": "उपभोक्ता संरक्षण अधिनियम के अन्तर्गत शिकायतकर्ता से आशय है"
+      },
+      "options": [
+        { "en": "Consumer", "hi": "उपभोक्ता" },
+        { "en": "State Government", "hi": "राज्य सरकार" },
+        { "en": "Central Government", "hi": "केन्द्रीय सरकार" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "District Forum can settle disputes",
+        "hi": "जिला मंच विवादों का निपटारा कर सकता है"
+      },
+      "options": [
+        { "en": "up to 5 lakhs", "hi": "5 लाख तक" },
+        { "en": "up to 10 lakhs", "hi": "10 लाख तक" },
+        { "en": "up to 15 lakhs", "hi": "15 लाख तक" },
+        { "en": "up to 1 crore", "hi": "1 करोड़ तक" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "Non-government organisation working in India is",
+        "hi": "भारत में कार्यरत गैर-सरकारी संगठन है"
+      },
+      "options": [
+        { "en": "Voice", "hi": "वॉयस" },
+        { "en": "Common Cause", "hi": "कॉमन कॉज" },
+        { "en": "Both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "The machinery for settlement of consumer disputes is",
+        "hi": "उपभोक्ता विवादों के निपटारे की अवस्था तन्त्र है"
+      },
+      "options": [
+        { "en": "One-tier", "hi": "एक-स्तरीय" },
+        { "en": "Three-tier", "hi": "त्रि-स्तरीय" },
+        { "en": "Two-tier", "hi": "द्वि-स्तरीय" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "In India, Entrepreneurial Development Programme has been",
+        "hi": "भारत में उद्यमिता विकास कार्यक्रम रहा है"
+      },
+      "options": [
+        { "en": "Successful", "hi": "सफल" },
+        { "en": "Unsuccessful", "hi": "असफल" },
+        { "en": "Need of improvement", "hi": "सुधार की आवश्यकता" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "The attitude of Indian government machinery towards entrepreneurial development programme is",
+        "hi": "उद्यमिता विकास कार्यक्रम के प्रति भारत के सरकारी तन्त्र का दृष्टिकोण है"
+      },
+      "options": [
+        { "en": "Destructive", "hi": "विनाशात्मक" },
+        { "en": "Negative", "hi": "नकारात्मक" },
+        { "en": "Constructive", "hi": "रचनात्मक" },
+        { "en": "Non-cooperative", "hi": "असहयोगात्मक" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "Entrepreneurial Development Institute of India was established by",
+        "hi": "भारतीय उद्यमिता विकास संस्थान की स्थापना की गयी थी"
+      },
+      "options": [
+        { "en": "Maharashtra Government", "hi": "महाराष्ट्र सरकार द्वारा" },
+        { "en": "Gujarat Government", "hi": "गुजरात सरकार द्वारा" },
+        { "en": "Madhya Pradesh Government", "hi": "मध्य प्रदेश सरकार द्वारा" },
+        { "en": "Tamil Nadu Government", "hi": "तमिलनाडु सरकार द्वारा" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Entrepreneurial Development Institute of India is situated in",
+        "hi": "भारतीय उद्यमिता विकास संस्थान स्थित है"
+      },
+      "options": [
+        { "en": "Ahmedabad", "hi": "अहमदाबाद में" },
+        { "en": "Mumbai", "hi": "मुम्बई में" },
+        { "en": "New Delhi", "hi": "नई दिल्ली में" },
+        { "en": "Chennai", "hi": "चेन्नई में" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "According to Koontz and O'Donnel, the main functions of management are",
+        "hi": "कून्ट्ज एवं ओ'डोनेल के अनुसार प्रबन्ध के मुख्य......... कार्य हैं।"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Coordination is established by",
+        "hi": "समन्वय स्थापित किया जाता है"
+      },
+      "options": [
+        { "en": "Top level management", "hi": "उच्चतम स्तरीय प्रबंध द्वारा" },
+        { "en": "Middle level management", "hi": "मध्यम स्तरीय प्रबंध द्वारा" },
+        { "en": "Lower level management", "hi": "निम्न स्तरीय प्रबंध द्वारा" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "In the nature of social responsibility of management applies the rule of",
+        "hi": "प्रबन्ध की सामाजिक उत्तरदायित्व की प्रकृति में लागू होता है"
+      },
+      "options": [
+        { "en": "'Buyer beware'", "hi": "'क्रेता की सावधानी' का नियम" },
+        { "en": "'Seller beware'", "hi": "'विक्रेता की सावधानी' का नियम" },
+        { "en": "Both (A) and (B)", "hi": "(A) और (B) दोनों" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Production in scientific management is",
+        "hi": "वैज्ञानिक प्रबन्ध में उत्पादन होता है"
+      },
+      "options": [
+        { "en": "Maximum", "hi": "अधिकतम" },
+        { "en": "Minimum", "hi": "न्यूनतम" },
+        { "en": "Normal", "hi": "सामान्य" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Management should find 'one best way' to perform a task. Which principle of scientific management is defined in this sentence ?",
+        "hi": "एक कार्य के निष्पादन के लिये प्रबन्ध का 'सर्वोत्तम रास्ता' ढूँढ़ना चाहिए। वैज्ञानिक प्रबन्ध का कौन-सा सिद्धान्त इस पंक्ति की व्याख्या करता है ?"
+      },
+      "options": [
+        { "en": "Universal", "hi": "सार्वभौमिक" },
+        { "en": "Flexible", "hi": "लोचशील" },
+        { "en": "Absolute", "hi": "सम्पूर्ण" },
+        { "en": "Behavioural", "hi": "व्यावहारिक" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "By scientific management workers",
+        "hi": "वैज्ञानिक प्रबन्ध से श्रमिकों को"
+      },
+      "options": [
+        { "en": "are benefitted", "hi": "लाभ होता है" },
+        { "en": "suffer loss", "hi": "हानि होती है" },
+        { "en": "are not affected", "hi": "कोई प्रभाव नहीं" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "By scientific management profits are",
+        "hi": "वैज्ञानिक प्रबन्ध से लाभों में होती है"
+      },
+      "options": [
+        { "en": "Increased", "hi": "वृद्धि" },
+        { "en": "Reduced", "hi": "कमी" },
+        { "en": "Not affected", "hi": "कोई प्रभाव नहीं" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "By scientific management working hours of workers are",
+        "hi": "वैज्ञानिक प्रबन्ध से श्रमिकों के कार्य के घण्टों में होती है"
+      },
+      "options": [
+        { "en": "increased", "hi": "वृद्धि" },
+        { "en": "decreased", "hi": "कमी" },
+        { "en": "not affected", "hi": "कोई प्रभाव नहीं" },
+        { "en": "none of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "By scientific management consumers",
+        "hi": "वैज्ञानिक प्रबन्ध से उपभोक्ताओं को"
+      },
+      "options": [
+        { "en": "are not affected", "hi": "कोई प्रभाव नहीं होता है" },
+        { "en": "suffer exploitation", "hi": "शोषण होता है" },
+        { "en": "are benefitted", "hi": "लाभ होता है" },
+        { "en": "suffer loss", "hi": "हानि होती है" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "The propounder of administrative management was",
+        "hi": "प्रशासनिक प्रबन्ध के प्रस्तुतकर्ता थे"
+      },
+      "options": [
+        { "en": "Fayol", "hi": "फेयोल" },
+        { "en": "Taylor", "hi": "टेलर" },
+        { "en": "Terry", "hi": "डेरी" },
+        { "en": "None of them", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "\"A plan is a trap to capture the future.\" This statement is of",
+        "hi": "\"नियोजन भविष्य को पकड़ने के लिए बनाया गया पिंजरा है।\" यह कथन किसका है ?"
+      },
+      "options": [
+        { "en": "Newman", "hi": "न्यूमैन" },
+        { "en": "Hurley", "hi": "हर्ले" },
+        { "en": "Allen", "hi": "ऐलेन" },
+        { "en": "Terry", "hi": "टेरी" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "______ organisation is automatically formed.",
+        "hi": "______ संगठन स्वतः निर्मित होता है।"
+      },
+      "options": [
+        { "en": "Functional", "hi": "कार्यात्मक" },
+        { "en": "Informal", "hi": "अनौपचारिक" },
+        { "en": "Formal", "hi": "औपचारिक" },
+        { "en": "Divisional", "hi": "विभागीय" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "There is no favourtism in ______ organisation.",
+        "hi": "______ संगठन में पक्षपात नहीं होता है।"
+      },
+      "options": [
+        { "en": "Formal", "hi": "औपचारिक" },
+        { "en": "Informal", "hi": "अनौपचारिक" },
+        { "en": "Departmental", "hi": "विभागीय" },
+        { "en": "Functional", "hi": "कार्यात्मक" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "______ depends upon the sweet will of the employees.",
+        "hi": "कर्मचारियों की स्वेच्छा पर निर्भर करता है"
+      },
+      "options": [
+        { "en": "Formal organisation", "hi": "औपचारिक संगठन" },
+        { "en": "Functional organisation", "hi": "कार्यात्मक संगठन" },
+        { "en": "Informal organisation", "hi": "अनौपचारिक संगठन" },
+        { "en": "Departmental organisation", "hi": "विभागीय संगठन" }
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": {
+        "en": "In case of informal organisation authorities are",
+        "hi": "अनौपचारिक संगठन की दशा में अधिकार होते हैं"
+      },
+      "options": [
+        { "en": "Decentralised", "hi": "विकेन्द्रित" },
+        { "en": "Centralised", "hi": "केन्द्रित" },
+        { "en": "Equally distributed", "hi": "समान रूप से वितरित" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "The organisational steps are",
+        "hi": "संगठन प्रक्रिया के कदम हैं"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "______ comprises lower level in hierarchy of the organisation.",
+        "hi": "संगठन के पदानुक्रम में निचले स्तर में शामिल है"
+      },
+      "options": [
+        { "en": "Vice-President", "hi": "उपाध्यक्ष" },
+        { "en": "Production Manager", "hi": "उत्पादन प्रबंधक" },
+        { "en": "Chief Operation Officer", "hi": "मुख्य परिचालन अधिकारी" },
+        { "en": "Foreman and Supervisor", "hi": "फोरमैन और पर्यवेक्षक" }
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": {
+        "en": "______ gives shape to the organisational structure.",
+        "hi": "______ संगठन संरचना को आकार देती है"
+      },
+      "options": [
+        { "en": "Extent of delegation", "hi": "प्रतिनिधिकरण की सीमा" },
+        { "en": "Span of management", "hi": "प्रबन्ध की अवधि" },
+        { "en": "Number of employees", "hi": "कर्मचारियों की संख्या" },
+        { "en": "Planning", "hi": "योजना" }
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": {
+        "en": "Training of employees is",
+        "hi": "कर्मचारियों का प्रशिक्षण है"
+      },
+      "options": [
+        { "en": "Necessary", "hi": "आवश्यक" },
+        { "en": "Unnecessary", "hi": "अनावश्यक" },
+        { "en": "Compulsory", "hi": "अनिवार्य" },
+        { "en": "Wastage of money", "hi": "धन की बर्बादी" }
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": {
+        "en": "Development of employees involves",
+        "hi": "कर्मचारियों के विकास में सम्मिलित है"
+      },
+      "options": [
+        { "en": "Promotion", "hi": "पदोन्नति" },
+        { "en": "Transfer", "hi": "स्थानान्तरण" },
+        { "en": "Training", "hi": "प्रशिक्षण" },
+        { "en": "All of these", "hi": "इनमें से सभी" }
+      ],
+      "correctOptionIndex": 3
+    }
+  ]
+}

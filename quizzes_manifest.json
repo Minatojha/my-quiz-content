@@ -11,6 +11,15 @@
       "classTarget": "Class 12"
     },
     {
+      "id": "acc_002",
+      "title": "Practice: Full Test 1",
+      "subject": "Accountancy",
+      "url": "https://raw.githubusercontent.com/Minatojha/my-quiz-content/main/accountancy_test_1.json",
+      "dateAdded": "2025-09-10",
+      "type": "practice",
+      "classTarget": "Class 12"
+    },
+    {
       "id": "bst_2025_pyq",
       "title": "Business Studies 2025 PYQ",
       "subject": "Business Studies",
@@ -30,6 +39,7 @@
     }
   ]
 }
+
 
 
 
